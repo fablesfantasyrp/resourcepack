@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/ink_sac"
+  },
+    "overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "littleroom_wilderness:antlers"},
+		{"predicate": {"custom_model_data":2}, "model": "littleroom_wilderness:venison"},
+		{"predicate": {"custom_model_data":3}, "model": "littleroom_wilderness:venison_cooked"},
+		{"predicate": {"custom_model_data":4}, "model": "littleroom_wilderness:pelt"},
+		{"predicate": {"custom_model_data":5}, "model": "littleroom_wilderness:bear_hat"},
+		{"predicate": {"custom_model_data":6}, "model": "littleroom_wilderness:bearpolar_hat"},
+		{"predicate": {"custom_model_data":7}, "model": "littleroom_wilderness:bearblack_hat"}
+        ]
+}

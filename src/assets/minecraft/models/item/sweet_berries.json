@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/sweet_berries"
+  },
+  "overrides": [
+    { "predicate": {"custom_model_data": 1 }, "model": "custom/food/blueberry" },
+    { "predicate": {"custom_model_data": 2 }, "model": "custom/food/cherry" },
+    { "predicate": {"custom_model_data": 3 }, "model": "custom/food/strawberry" },
+    { "predicate": {"custom_model_data": 4 }, "model": "custom/food/raspberry" }
+  ]
+}
