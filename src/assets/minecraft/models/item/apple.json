@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/apple"
+  },
+  "overrides": [
+    { "predicate": {"custom_model_data": 1 }, "model": "custom/food/green_apple" },
+    { "predicate": {"custom_model_data": 2 }, "model": "custom/food/lemon" },
+    { "predicate": {"custom_model_data": 3 }, "model": "custom/food/mango" },
+    { "predicate": {"custom_model_data": 4 }, "model": "custom/food/pear" },
+    { "predicate": {"custom_model_data": 5 }, "model": "custom/food/peach" },
+    { "predicate": {"custom_model_data": 6 }, "model": "custom/food/orange" },
+    { "predicate": {"custom_model_data": 7 }, "model": "custom/food/banana" }
+  ]
+}

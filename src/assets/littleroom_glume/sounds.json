@@ -1,0 +1,77 @@
+{
+   "littleroom.glume.step1":{
+		 "sounds": [
+			"littleroom/glume/step1"
+		 ]
+	},
+   "littleroom.glume.step2":{
+		 "sounds": [
+			"littleroom/glume/step2"
+		 ]
+	},
+   "littleroom.glume.step3":{
+		 "sounds": [
+			"littleroom/glume/step3"
+		 ]
+	},
+   "littleroom.glume.step4":{
+		 "sounds": [
+			"littleroom/glume/step4"
+		 ]
+	},
+   "littleroom.glume.idle1":{
+		 "sounds": [
+			"littleroom/glume/idle1"
+		 ]
+	},
+   "littleroom.glume.idle2":{
+		 "sounds": [
+			"littleroom/glume/idle2"
+		 ]
+	},
+   "littleroom.glume.rage1":{
+		 "sounds": [
+			"littleroom/glume/rage1"
+		 ]
+	},
+   "littleroom.glume.rage2":{
+		 "sounds": [
+			"littleroom/glume/rage2"
+		 ]
+	},
+   "littleroom.glume.death":{
+		 "sounds": [
+			"littleroom/glume/death"
+		 ]
+	},
+   "littleroom.glume.shakesong":{
+		 "sounds": [
+			"littleroom/glume/shakesong"
+		 ]
+	},
+   "littleroom.glume.pop1":{
+		 "sounds": [
+			"littleroom/glume/pop1"
+		 ]
+	},
+   "littleroom.glume.pop2":{
+		 "sounds": [
+			"littleroom/glume/pop2"
+		 ]
+	},
+   "littleroom.glume.pop3":{
+		 "sounds": [
+			"littleroom/glume/pop3"
+		 ]
+	},
+   "littleroom.glume.swing":{
+		 "sounds": [
+			"littleroom/glume/swing"
+		 ]
+	},
+   "littleroom.glume.shakerattle":{
+		 "sounds": [
+			"littleroom/glume/shakerattle"
+		 ]
+	}
+}
