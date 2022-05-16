@@ -51,6 +51,10 @@
         { "predicate": { "custom_model_data": 1 }, "model": "custom/shields/round/round_pixel" },
         { "predicate": { "custom_model_data": 1, "blocking": 1 }, "model": "custom/shields/round/round_pixel_blocking" },
         { "predicate": { "custom_model_data": 2 }, "model": "custom/shields/oval/oval1" },
-        { "predicate": { "custom_model_data": 2, "blocking": 1 }, "model": "custom/shields/oval/oval1_blocking" }
+        { "predicate": { "custom_model_data": 2, "blocking": 1 }, "model": "custom/shields/oval/oval1_blocking" },
+        { "predicate": { "custom_model_data": 3 }, "model": "custom/shields/oval/oval2" },
+        { "predicate": { "custom_model_data": 3, "blocking": 1 }, "model": "custom/shields/oval/oval2_blocking" },
+        { "predicate": { "custom_model_data": 4 }, "model": "custom/shields/oval/oval3" },
+        { "predicate": { "custom_model_data": 4, "blocking": 1 }, "model": "custom/shields/oval/oval3_blocking" }
     ]
 }   
