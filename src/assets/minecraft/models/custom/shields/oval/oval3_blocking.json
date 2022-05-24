@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "custom/shield/oval_1",
-		"particle": "custom/shield/oval_1"
+		"0": "custom/shield/oval_3",
+		"particle": "custom/shield/oval_3"
 	},
 	"elements": [
 		{
