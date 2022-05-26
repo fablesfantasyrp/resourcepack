@@ -1,0 +1,122 @@
+{
+   "littleroom.kurrot.ground_smash":{
+		 "sounds": [
+			"littleroom/kurrot/ground_smash"
+		 ]
+	},
+   "littleroom.kurrot.impact1":{
+		 "sounds": [
+			"littleroom/kurrot/impact1"
+		 ]
+	},
+   "littleroom.kurrot.impact2":{
+		 "sounds": [
+			"littleroom/kurrot/impact2"
+		 ]
+	},
+   "littleroom.kurrot.impact3":{
+		 "sounds": [
+			"littleroom/kurrot/impact3"
+		 ]
+	},
+   "littleroom.kurrot.impact4":{
+		 "sounds": [
+			"littleroom/kurrot/impact4"
+		 ]
+	},
+   "littleroom.kurrot.kur_axeland":{
+		 "sounds": [
+			"littleroom/kurrot/kur_axeland"
+		 ]
+	},
+   "littleroom.kurrot.kur_death":{
+		 "sounds": [
+			"littleroom/kurrot/kur_death"
+		 ]
+	},
+   "littleroom.kurrot.kur_jump":{
+		 "sounds": [
+			"littleroom/kurrot/kur_jump"
+		 ]
+	},
+   "littleroom.kurrot.kur_land":{
+		 "sounds": [
+			"littleroom/kurrot/kur_land"
+		 ]
+	},
+   "littleroom.kurrot.kur_vocals1":{
+		 "sounds": [
+			"littleroom/kurrot/kur_vocals1"
+		 ]
+	},
+   "littleroom.kurrot.kur_vocals2":{
+		 "sounds": [
+			"littleroom/kurrot/kur_vocals2"
+		 ]
+	},
+   "littleroom.kurrot.kur_vocals3":{
+		 "sounds": [
+			"littleroom/kurrot/kur_vocals3"
+		 ]
+	},
+   "littleroom.kurrot.ranged_slash_impact1":{
+		 "sounds": [
+			"littleroom/kurrot/ranged_slash_impact1"
+		 ]
+	},
+   "littleroom.kurrot.ranged_slash_impact2":{
+		 "sounds": [
+			"littleroom/kurrot/ranged_slash_impact2"
+		 ]
+	},
+   "littleroom.kurrot.ranged_slash_swing1":{
+		 "sounds": [
+			"littleroom/kurrot/ranged_slash_swing1"
+		 ]
+	},
+   "littleroom.kurrot.ranged_slash_swing2":{
+		 "sounds": [
+			"littleroom/kurrot/ranged_slash_swing2"
+		 ]
+	},
+   "littleroom.kurrot.rot_shove":{
+		 "sounds": [
+			"littleroom/kurrot/rot_shove"
+		 ]
+	},
+   "littleroom.kurrot.rot_squeal1":{
+		 "sounds": [
+			"littleroom/kurrot/rot_squeal1"
+		 ]
+	},
+   "littleroom.kurrot.rot_squeal2":{
+		 "sounds": [
+			"littleroom/kurrot/rot_squeal2"
+		 ]
+	},
+   "littleroom.kurrot.rot_squeal3":{
+		 "sounds": [
+			"littleroom/kurrot/rot_squeal3"
+		 ]
+	},
+   "littleroom.kurrot.swing1":{
+		 "sounds": [
+			"littleroom/kurrot/swing1"
+		 ]
+	},
+   "littleroom.kurrot.swing2":{
+		 "sounds": [
+			"littleroom/kurrot/swing2"
+		 ]
+	},
+   "littleroom.kurrot.swing3":{
+		 "sounds": [
+			"littleroom/kurrot/swing3"
+		 ]
+	},
+   "littleroom.kurrot.swing4":{
+		 "sounds": [
+			"littleroom/kurrot/swing4"
+		 ]
+	}
+}
