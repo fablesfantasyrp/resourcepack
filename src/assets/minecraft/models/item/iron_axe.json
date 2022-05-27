@@ -8,6 +8,7 @@
 	{"predicate": {"custom_model_data": 2}, "model": "custom/weapons/cursed_axe"},
 	{"predicate": {"custom_model_data": 3}, "model": "custom/weapons/silver_halberd"},
   {"predicate": {"custom_model_data": 4}, "model": "custom/weapons/silver_greatsword"},
-  {"predicate": {"custom_model_data": 5}, "model": "custom/weapons/orc_axe"}
+  {"predicate": {"custom_model_data": 5}, "model": "custom/weapons/orc_axe"},
+  {"predicate": {"custom_model_data": 6}, "model": "custom/weapons/steel_greatsword"}
   ]
 }
