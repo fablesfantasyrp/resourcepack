@@ -26,6 +26,15 @@
 	{"predicate": {"custom_model_data": 20}, "model": "custom/gems/soul"},
 	{"predicate": {"custom_model_data": 21}, "model": "custom/gems/fire"},
 	{"predicate": {"custom_model_data": 22}, "model": "custom/gems/amethyst"},
-	{"predicate": {"custom_model_data": 23}, "model": "custom/misc/lockpick"}
+	{"predicate": {"custom_model_data": 23}, "model": "custom/misc/lockpick"},
+	{"predicate": {"custom_model_data": 24}, "model": "custom/decoration/teacup_1"},
+	{"predicate": {"custom_model_data": 25}, "model": "custom/decoration/teacup_2"},
+	{"predicate": {"custom_model_data": 26}, "model": "custom/decoration/teacup_3"},
+	{"predicate": {"custom_model_data": 27}, "model": "custom/decoration/teapot_1"},
+	{"predicate": {"custom_model_data": 28}, "model": "custom/decoration/teapot_2"},
+	{"predicate": {"custom_model_data": 29}, "model": "custom/decoration/teapot_3"},
+	{"predicate": {"custom_model_data": 30}, "model": "custom/decoration/teaset_1"},
+	{"predicate": {"custom_model_data": 31}, "model": "custom/decoration/teaset_2"},
+	{"predicate": {"custom_model_data": 32}, "model": "custom/decoration/teaset_3"}
   ]
 }
