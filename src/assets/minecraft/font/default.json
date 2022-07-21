@@ -1,0 +1,13 @@
+{
+	"providers": [
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/1f442.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"👂"
+			]
+		}
+	]
+}
