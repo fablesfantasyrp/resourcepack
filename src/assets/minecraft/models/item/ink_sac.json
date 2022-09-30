@@ -11,7 +11,13 @@
 		{"predicate": {"custom_model_data":5}, "model": "littleroom_wilderness:bear_hat"},
 		{"predicate": {"custom_model_data":6}, "model": "littleroom_wilderness:bearpolar_hat"},
 		{"predicate": {"custom_model_data":7}, "model": "littleroom_wilderness:bearblack_hat"},
-		{"predicate": {"custom_model_data":8}, "model": "littleroom_catapult:boulder"},
-		{"predicate": {"custom_model_data":9}, "model": "littleroom_catapult:plague_ball"}
+		{"predicate": {"custom_model_data":8}, "model": "littleroom_trollpack:troll_spear"},
+		{"predicate": {"custom_model_data":9}, "model": "littleroom_trollpack:troll_spear_ground"},
+		{"predicate": {"custom_model_data":10}, "model": "littleroom_trollpack:voodoo_skull"},
+		{"predicate": {"custom_model_data":11}, "model": "littleroom_trollpack:troll_chief_helm"},
+		{"predicate": {"custom_model_data":12}, "model": "littleroom_trollpack:troll_elite_helm"},
+		{"predicate": {"custom_model_data":13}, "model": "littleroom_trollpack:troll_kopesh"},
+		{"predicate": {"custom_model_data":14}, "model": "littleroom_trollpack:troll_mask"},
+		{"predicate": {"custom_model_data":15}, "model": "littleroom_trollpack:troll_voodoo_staff"}
         ]
 }
