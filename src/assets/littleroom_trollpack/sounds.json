@@ -1,0 +1,67 @@
+{
+   "littleroom.trollpack.greetings":{
+		 "sounds": [
+			"littleroom/trollpack/greetings"
+		 ]
+	},
+   "littleroom.trollpack.heal":{
+		 "sounds": [
+			"littleroom/trollpack/heal"
+		 ]
+	},
+   "littleroom.trollpack.impact1":{
+		 "sounds": [
+			"littleroom/trollpack/impact1"
+		 ]
+	},
+   "littleroom.trollpack.impact2":{
+		 "sounds": [
+			"littleroom/trollpack/impact2"
+		 ]
+	},
+   "littleroom.trollpack.impact3":{
+		 "sounds": [
+			"littleroom/trollpack/impact3"
+		 ]
+	},
+   "littleroom.trollpack.impact4":{
+		 "sounds": [
+			"littleroom/trollpack/impact4"
+		 ]
+	},
+   "littleroom.trollpack.jump":{
+		 "sounds": [
+			"littleroom/trollpack/jump"
+		 ]
+	},
+   "littleroom.trollpack.swing1":{
+		 "sounds": [
+			"littleroom/trollpack/swing1"
+		 ]
+	},
+   "littleroom.trollpack.swing2":{
+		 "sounds": [
+			"littleroom/trollpack/swing2"
+		 ]
+	},
+   "littleroom.trollpack.swing3":{
+		 "sounds": [
+			"littleroom/trollpack/swing3"
+		 ]
+	},
+   "littleroom.trollpack.swing4":{
+		 "sounds": [
+			"littleroom/trollpack/swing4"
+		 ]
+	},
+   "littleroom.trollpack.swing5":{
+		 "sounds": [
+			"littleroom/trollpack/swing5"
+		 ]
+	},
+   "littleroom.trollpack.spell_attack":{
+		 "sounds": [
+			"littleroom/trollpack/spell_attack"
+		 ]
+	}
+}
