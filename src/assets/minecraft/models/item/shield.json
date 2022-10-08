@@ -56,7 +56,10 @@
         { "predicate": { "custom_model_data": 3, "blocking": 1 }, "model": "custom/shields/oval/oval2_blocking" },
         { "predicate": { "custom_model_data": 4 }, "model": "custom/shields/oval/oval3" },
         { "predicate": { "custom_model_data": 4, "blocking": 1 }, "model": "custom/shields/oval/oval3_blocking" },
-        {"predicate":  {"custom_model_data":5}, "model": "littleroom_trollpack:troll_shield"},
-        {"predicate":  {"custom_model_data":5,  "blocking": 1}, "model": "littleroom_trollpack:troll_shield_blocking"}
+        { "predicate": { "custom_model_data":5 }, "model": "littleroom_trollpack:troll_shield"},
+        { "predicate": { "custom_model_data":5,  "blocking": 1}, "model": "littleroom_trollpack:troll_shield_blocking"},
+        { "predicate": { "blocking": 1}, "model": "item/shield_blocking"},
+        { "predicate": { "custom_model_data":6 }, "model": "littleroom_voras:voras_tombstone_shield"},
+        { "predicate": { "custom_model_data":6,  "blocking": 1}, "model": "littleroom_voras:voras_tombstone_shield_blocking"}
     ]
-}   
+}
