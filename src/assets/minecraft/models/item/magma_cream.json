@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/magma_cream"
+  },
+  "overrides": [
+	{"predicate": {"custom_model_data": 1}, "model": "custom/armor/darkened_steel/darkened_steel_winged_helmet"},
+	{"predicate": {"custom_model_data": 2}, "model": "custom/armor/heavy_desert_brass/heavy_desert_brass_galea"},
+	{"predicate": {"custom_model_data": 3}, "model": "custom/armor/light_bronze/light_bronze_antlers"},
+	{"predicate": {"custom_model_data": 4}, "model": "custom/armor/silver/silver_plumed_helmet"}
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "custom/weapons/cursed_axe/cursed_axe"
+  }
+}

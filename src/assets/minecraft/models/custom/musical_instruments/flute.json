@@ -1,0 +1,53 @@
+{
+	"credit": "Made by ssnowbird829 with Blockbench",
+	"textures": {
+		"1": "custom/musical_instruments/flute/FLUTE 2",
+		"particle": "custom/musical_instruments/flute/FLUTE 2"
+	},
+	"elements": [
+		{
+			"name": "Understructure",
+			"from": [7.5, 0.5, 7.5],
+			"to": [8.5, 15.5, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-0.5, 0.5, 0.5]},
+			"faces": {
+				"north": {"uv": [0, 0, 1, 15], "texture": "#1"},
+				"east": {"uv": [1, 0, 2, 15], "texture": "#1"},
+				"south": {"uv": [2, 0, 3, 15], "texture": "#1"},
+				"west": {"uv": [3, 0, 4, 15], "texture": "#1"},
+				"up": {"uv": [5, 1, 4, 0], "texture": "#1"},
+				"down": {"uv": [5, 1, 4, 2], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 175.25, 0],
+			"translation": [0, 2.75, 0],
+			"scale": [1, 0.69922, 1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 175.25, 0],
+			"translation": [0, 2.75, 0],
+			"scale": [1, 0.69922, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 164.5, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 163.25, 0]
+		},
+		"ground": {
+			"rotation": [86.25, 0, 0],
+			"scale": [1, 0.85156, 1]
+		},
+		"gui": {
+			"rotation": [45, 135, -45]
+		},
+		"fixed": {
+			"rotation": [0, 0, -48.5],
+			"translation": [0, 0, -0.5],
+			"scale": [1, 1.06641, 1]
+		}
+	}
+}

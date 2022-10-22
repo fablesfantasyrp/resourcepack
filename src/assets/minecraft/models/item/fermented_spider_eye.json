@@ -1,0 +1,25 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/fermented_spider_eye"
+  },
+  "overrides": [
+	{"predicate": {"custom_model_data": 1}, "model": "custom/misc/book_pile"},
+	{"predicate": {"custom_model_data": 2}, "model": "custom/misc/mortar_and_pestle"},
+	{"predicate": {"custom_model_data": 3}, "model": "custom/misc/paper_stack"},
+	{"predicate": {"custom_model_data": 4}, "model": "custom/misc/pipe"},
+	{"predicate": {"custom_model_data": 5}, "model": "custom/misc/scroll"},
+	{"predicate": {"custom_model_data": 6}, "model": "custom/misc/scroll_stack"},
+	{"predicate": {"custom_model_data": 7}, "model": "custom/misc/stein"},
+	{"predicate": {"custom_model_data": 8}, "model": "custom/misc/telescope"},
+	{"predicate": {"custom_model_data": 9}, "model": "custom/misc/copper_coin"},
+	{"predicate": {"custom_model_data": 10}, "model": "custom/misc/silver_coin"},
+	{"predicate": {"custom_model_data": 11}, "model": "custom/misc/gold_coin"},
+	{"predicate": {"custom_model_data": 12}, "model": "custom/decoration/empty_wine_glass"},
+	{"predicate": {"custom_model_data": 13}, "model": "custom/decoration/red_wine_bottle"},
+	{"predicate": {"custom_model_data": 14}, "model": "custom/decoration/red_wine_glass"},
+	{"predicate": {"custom_model_data": 15}, "model": "custom/decoration/white_wine_bottle"},
+	{"predicate": {"custom_model_data": 16}, "model": "custom/decoration/white_wine_glass"},
+	{"predicate": {"custom_model_data": 17}, "model": "custom/misc/open_scroll"}
+  ]
+}

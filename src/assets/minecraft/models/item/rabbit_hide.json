@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/rabbit_hide"
+  },
+  "overrides": [
+	{"predicate": {"custom_model_data": 1}, "model": "custom/hats/blue_wizard_hat"},
+	{"predicate": {"custom_model_data": 2}, "model": "custom/hats/brown_wizard_hat"},
+	{"predicate": {"custom_model_data": 3}, "model": "custom/hats/cavalier_hat"},
+	{"predicate": {"custom_model_data": 4}, "model": "custom/hats/leather_hat"}
+  ]
+}

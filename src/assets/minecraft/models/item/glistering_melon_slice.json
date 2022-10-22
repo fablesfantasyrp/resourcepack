@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/glistering_melon_slice"
+  },
+  "overrides": [
+	{"predicate": {"custom_model_data": 1}, "model": "custom/musical_instruments/flute"},
+	{"predicate": {"custom_model_data": 2}, "model": "custom/musical_instruments/lute"},
+	{"predicate": {"custom_model_data": 3}, "model": "custom/musical_instruments/harp"},
+	{"predicate": {"custom_model_data": 4}, "model": "custom/musical_instruments/accordion"},
+	{"predicate": {"custom_model_data": 5}, "model": "custom/musical_instruments/conga"},
+	{"predicate": {"custom_model_data": 6}, "model": "custom/musical_instruments/violin"}
+  ]
+}
