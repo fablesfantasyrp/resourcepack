@@ -4,7 +4,7 @@
         "layer0": "item/stone_sword"
     },
     "overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "custom/ent/ent_sword"},
-		{"predicate": {"custom_model_data":2}, "model": "custom/ent/ent_staff"}
+		{"predicate": {"custom_model_data":2013}, "model": "necromancer_model/necromancer_staff"},
+		{"predicate": {"custom_model_data":2014}, "model": "necromancer_model/necromancer_staff_shiny"}
     ]
 }
