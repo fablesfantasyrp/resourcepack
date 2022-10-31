@@ -1,4 +1,12 @@
 {
+  "ambient.custom.church_bell": {
+    "sounds": [
+      {
+        "name": "custom/ambient/church_bell"
+      }
+    ],
+    "subtitle": "Church bell ringing"
+  },
   "block.note_block.custom.flute.short": {
     "sounds": [
       {
