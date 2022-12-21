@@ -4,17 +4,17 @@
     "layer0": "minecraft:item/netherite_sword"
   },
   "overrides": [
-    {"predicate": {"custom_model_data": 1}, "model": "custom/weapons/glade_doubleblade"},
-    {"predicate": {"custom_model_data": 2}, "model": "custom/weapons/glade_spear"},
-    {"predicate": {"custom_model_data": 3}, "model": "custom/weapons/glade_sword"},
-    {"predicate": {"custom_model_data": 4}, "model": "custom/weapons/silver_spear"},
-    {"predicate": {"custom_model_data": 5}, "model": "custom/weapons/silver_sword"},
-    {"predicate": {"custom_model_data": 6}, "model": "custom/weapons/red_lance"},
-    {"predicate": {"custom_model_data": 7}, "model": "custom/weapons/blue_lance"},
-    {"predicate": {"custom_model_data": 8}, "model": "custom/weapons/orange_lance"},
-    {"predicate": {"custom_model_data": 9}, "model": "custom/weapons/light_blue_lance"},
-    {"predicate": {"custom_model_data": 10}, "model": "custom/weapons/scimitar"},
-    {"predicate": {"custom_model_data": 11}, "model": "custom/weapons/anjyarr_spear"},
-    {"predicate": {"custom_model_data": 12}, "model": "custom/weapons/orc_sword"}
+    {"predicate": {"custom_model_data": 1}, "model": "fablesfantasyrp:item/weapons/glade_doubleblade"},
+    {"predicate": {"custom_model_data": 2}, "model": "fablesfantasyrp:item/weapons/glade_spear"},
+    {"predicate": {"custom_model_data": 3}, "model": "fablesfantasyrp:item/weapons/glade_sword"},
+    {"predicate": {"custom_model_data": 4}, "model": "fablesfantasyrp:item/weapons/silver_spear"},
+    {"predicate": {"custom_model_data": 5}, "model": "fablesfantasyrp:item/weapons/silver_sword"},
+    {"predicate": {"custom_model_data": 6}, "model": "fablesfantasyrp:item/weapons/red_lance"},
+    {"predicate": {"custom_model_data": 7}, "model": "fablesfantasyrp:item/weapons/blue_lance"},
+    {"predicate": {"custom_model_data": 8}, "model": "fablesfantasyrp:item/weapons/orange_lance"},
+    {"predicate": {"custom_model_data": 9}, "model": "fablesfantasyrp:item/weapons/light_blue_lance"},
+    {"predicate": {"custom_model_data": 10}, "model": "fablesfantasyrp:item/weapons/scimitar"},
+    {"predicate": {"custom_model_data": 11}, "model": "fablesfantasyrp:item/weapons/anjyarr_spear"},
+    {"predicate": {"custom_model_data": 12}, "model": "fablesfantasyrp:item/weapons/orc_sword"}
     ]
   }

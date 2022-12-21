@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "fablesfantasyrp:item/weapons/copper_axe/copper_axe"
+  }
+}

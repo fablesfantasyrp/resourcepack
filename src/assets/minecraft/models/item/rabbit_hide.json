@@ -4,17 +4,9 @@
     "layer0": "minecraft:item/rabbit_hide"
   },
   "overrides": [
-	{"predicate": {"custom_model_data": 1}, "model": "custom/hats/blue_wizard_hat"},
-	{"predicate": {"custom_model_data": 2}, "model": "custom/hats/brown_wizard_hat"},
-	{"predicate": {"custom_model_data": 3}, "model": "custom/hats/cavalier_hat"},
-  {"predicate": {"custom_model_data": 4}, "model": "custom/hats/leather_hat"},
-  {"predicate": {"custom_model_data": 5}, "model": "custom/hats/turban_red"},
-  {"predicate": {"custom_model_data": 6}, "model": "custom/hats/turban_white"},
-  {"predicate": {"custom_model_data": 7}, "model": "custom/hats/turban_blue"},
-  {"predicate": {"custom_model_data": 8}, "model": "custom/hats/turban_purple"},
-  {"predicate": {"custom_model_data": 9}, "model": "custom/hats/turban_green"},
-  {"predicate": {"custom_model_data": 10}, "model": "custom/hats/turban_black"},
-  {"predicate": {"custom_model_data": 11}, "model": "custom/hats/turban_cyan"},
-  {"predicate": {"custom_model_data": 12}, "model": "custom/hats/turban_orange"}
+	{"predicate": {"custom_model_data": 1}, "model": "fablesfantasyrp:item/hats/blue_wizard_hat"},
+	{"predicate": {"custom_model_data": 2}, "model": "fablesfantasyrp:item/hats/brown_wizard_hat"},
+	{"predicate": {"custom_model_data": 3}, "model": "fablesfantasyrp:item/hats/cavalier_hat"},
+    {"predicate": {"custom_model_data": 4}, "model": "fablesfantasyrp:item/hats/leather_hat"}
   ]
 }

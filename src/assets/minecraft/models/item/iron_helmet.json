@@ -4,7 +4,7 @@
     "layer0": "minecraft:item/iron_helmet"
   },
   "overrides": [
-  	{ "predicate": {"custom_model_data": 1 }, "model": "custom/armor/royal_silver/royal_silver_helmet" },
-  	{ "predicate": {"custom_model_data": 2 }, "model": "custom/armor/darkened_steel/darkened_steel_helmet" }
+  	{ "predicate": {"custom_model_data": 1 }, "model": "fablesfantasyrp:armor/royal_silver/royal_silver_helmet" },
+  	{ "predicate": {"custom_model_data": 2 }, "model": "fablesfantasyrp:armor/darkened_steel/darkened_steel_helmet" }
   ]
 }

@@ -1,0 +1,10 @@
+{
+  "ambient.custom.church_bell": {
+    "sounds": [
+      {
+        "name": "fablesfantasyrp:ambient/church_bell"
+      }
+    ],
+    "subtitle": "Church bell ringing"
+  }
+}

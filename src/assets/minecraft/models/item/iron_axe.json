@@ -4,11 +4,11 @@
     "layer0": "minecraft:item/iron_axe"
   },
   "overrides": [
-	{"predicate": {"custom_model_data": 1}, "model": "custom/weapons/copper_axe"},
-	{"predicate": {"custom_model_data": 2}, "model": "custom/weapons/cursed_axe"},
-	{"predicate": {"custom_model_data": 3}, "model": "custom/weapons/silver_halberd"},
-  {"predicate": {"custom_model_data": 4}, "model": "custom/weapons/silver_greatsword"},
-  {"predicate": {"custom_model_data": 5}, "model": "custom/weapons/orc_axe"},
-  {"predicate": {"custom_model_data": 6}, "model": "custom/weapons/steel_greatsword"}
+	{"predicate": {"custom_model_data": 1}, "model": "fablesfantasyrp:item/weapons/copper_axe"},
+	{"predicate": {"custom_model_data": 2}, "model": "fablesfantasyrp:item/weapons/cursed_axe"},
+	{"predicate": {"custom_model_data": 3}, "model": "fablesfantasyrp:item/weapons/silver_halberd"},
+    {"predicate": {"custom_model_data": 4}, "model": "fablesfantasyrp:item/weapons/silver_greatsword"},
+    {"predicate": {"custom_model_data": 5}, "model": "fablesfantasyrp:item/weapons/orc_axe"},
+    {"predicate": {"custom_model_data": 6}, "model": "fablesfantasyrp:item/weapons/steel_greatsword"}
   ]
 }
