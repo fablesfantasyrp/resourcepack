@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/map"
+  },
+  "overrides": [
+	{"predicate": {"custom_model_data": 1}, "model": "fablesfantasyrp:gui/arrow_left"},
+	{"predicate": {"custom_model_data": 2}, "model": "fablesfantasyrp:gui/arrow_up"}
+  ]
+}
