@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:block/amethyst_cluster"
+  },
+  "display": {
+    "head": {
+      "translation": [
+        0,
+        14,
+        -5
+      ]
+    }
+  },
+  "overrides": [
+	{"predicate": {"custom_model_data": 1}, "model": "fablesfantasyrp:gui/progressbar_3"}
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "parent": "item/amethyst_bud",
+  "textures": {
+    "layer0": "minecraft:block/medium_amethyst_bud"
+  },
+  "display": {
+    "fixed": {
+      "translation": [
+        0,
+        6,
+        0
+      ]
+    }
+  },
+  "overrides": [
+	{"predicate": {"custom_model_data": 1}, "model": "fablesfantasyrp:gui/progressbar_1"}
+  ]
+}

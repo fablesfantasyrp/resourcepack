@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:item/template_skull",
+  "overrides": [
+	{"predicate": {"custom_model_data": 1}, "model": "fablesfantasyrp:gui/number_one"},
+	{"predicate": {"custom_model_data": 2}, "model": "fablesfantasyrp:gui/number_two"},
+	{"predicate": {"custom_model_data": 3}, "model": "fablesfantasyrp:gui/number_three"},
+	{"predicate": {"custom_model_data": 4}, "model": "fablesfantasyrp:gui/number_four"},
+	{"predicate": {"custom_model_data": 5}, "model": "fablesfantasyrp:gui/number_five"},
+	{"predicate": {"custom_model_data": 6}, "model": "fablesfantasyrp:gui/number_six"},
+	{"predicate": {"custom_model_data": 7}, "model": "fablesfantasyrp:gui/number_seven"},
+	{"predicate": {"custom_model_data": 8}, "model": "fablesfantasyrp:gui/number_eight"},
+	{"predicate": {"custom_model_data": 9}, "model": "fablesfantasyrp:gui/number_nine"},
+	{"predicate": {"custom_model_data": 10}, "model": "fablesfantasyrp:gui/number_zero"}
+  ]
+}
