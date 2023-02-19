@@ -9,7 +9,7 @@ clean:
 
 .PHONY: install
 install: all
-	cp build/fablesfantasyrp.zip "/home/darwj1/.local/share/multimc/instances/1.19.1 Forge (OBSCURE)/.minecraft/resourcepacks"
+	cp build/fablesfantasyrp.zip ~/.minecraft/resourcepacks/
 
 .PHONY: watch
 watch:
