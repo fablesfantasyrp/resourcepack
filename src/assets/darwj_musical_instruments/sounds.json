@@ -1,0 +1,122 @@
+{
+  "ambient.custom.church_bell": {
+    "sounds": [
+      {
+        "name": "custom/ambient/church_bell"
+      }
+    ],
+    "subtitle": "Church bell ringing"
+  },
+  "block.note_block.custom.flute.short": {
+    "sounds": [
+      {
+        "name": "custom/flute/flute_short"
+      }
+    ],
+    "subtitle": "Short Flute Sound"
+  },
+  "block.note_block.custom.flute.long": {
+    "sounds": [
+      {
+        "name": "custom/flute/flute_long"
+      }
+    ],
+    "subtitle": "Long Flute Sound"
+  },
+  "block.note_block.custom.lute.short": {
+    "sounds": [
+      {
+        "name": "custom/lute/lute_short"
+      }
+    ],
+    "subtitle": "Short Lute Sound"
+  },
+  "block.note_block.custom.lute.long": {
+    "sounds": [
+      {
+        "name": "custom/lute/lute_long"
+      }
+    ],
+    "subtitle": "Long Lute Sound"
+  },
+  "block.note_block.custom.harp.short": {
+    "sounds": [
+      {
+        "name": "custom/harp/harp_short"
+      }
+    ],
+    "subtitle": "Short Harp Pluck"
+  },
+  "block.note_block.custom.harp.long": {
+    "sounds": [
+      {
+        "name": "custom/harp/harp_long"
+      }
+    ],
+    "subtitle": "Long Harp Pluck"
+  },
+  "block.note_block.custom.accordion.short": {
+    "sounds": [
+      {
+        "name": "custom/accordion/accordion_short"
+      }
+    ],
+    "subtitle": "Short Accordion Sound"
+  },
+  "block.note_block.custom.accordion.long": {
+    "sounds": [
+      {
+        "name": "custom/accordion/accordion_long"
+      }
+    ],
+    "subtitle": "Long Accordion Sound"
+  },
+  "block.note_block.custom.conga.high": {
+    "sounds": [
+      {
+        "name": "custom/conga/conga_high"
+      }
+    ],
+    "subtitle": "Conga High Hit"
+  },
+  "block.note_block.custom.conga.mute": {
+    "sounds": [
+      {
+        "name": "custom/conga/conga_mute"
+      }
+    ],
+    "subtitle": "Conga Mute Hit"
+  },
+  "block.note_block.custom.conga.ring": {
+    "sounds": [
+      {
+        "name": "custom/conga/conga_ring"
+      }
+    ],
+    "subtitle": "Conga Ring Hit"
+  },
+  "block.note_block.custom.conga.slap": {
+    "sounds": [
+      {
+        "name": "custom/conga/conga_slap"
+      }
+    ],
+    "subtitle": "Conga Slap Hit"
+  },
+  "block.note_block.custom.violin.short": {
+    "sounds": [
+      {
+        "name": "custom/violin/violin_short"
+      }
+    ],
+    "subtitle": "Short Violin Pluck"
+  },
+  "block.note_block.custom.violin.long": {
+    "sounds": [
+      {
+        "name": "custom/violin/violin_long"
+      }
+    ],
+    "subtitle": "Long Violin Note"
+  }
+}
