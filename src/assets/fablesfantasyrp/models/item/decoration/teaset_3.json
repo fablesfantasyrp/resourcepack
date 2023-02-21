@@ -1,8 +1,9 @@
 {
-	"credit": "Made with Blockbench by snowbird829",
+	"credit": "Made by snowbird829 with Blockbench",
 	"textures": {
-		"1": "fablesfantasyrp:item/decoration/teaset_3/texture1",
-		"2": "fablesfantasyrp:item/decoration/teaset_3/texture2"
+		"1": "fablesfantasyrp:item/decoration/teaset_3/teaset_3_1",
+		"2": "fablesfantasyrp:item/decoration/teaset_3/teaset_3_2",
+		"particle": "fablesfantasyrp:item/decoration/teaset_3/teaset_3_1"
 	},
 	"elements": [
 		{
@@ -347,7 +348,7 @@
 			"translation": [0, 4, 0]
 		},
 		"gui": {
-			"translation": [0, 6.25, 0]
+			"translation": [0, 6.75, 0]
 		},
 		"head": {
 			"translation": [0, 14.75, 0]

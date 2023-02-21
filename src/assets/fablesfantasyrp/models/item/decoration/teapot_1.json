@@ -1,8 +1,9 @@
 {
-	"credit": "Made with Blockbench by snowbird829",
+	"credit": "Made by snowbird829 with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "fablesfantasyrp:item/decoration/teapot_1/texture"
+		"0": "fablesfantasyrp:item/decoration/teapot_1/teapot_1",
+		"particle": "fablesfantasyrp:item/decoration/teapot_1/teapot_1"
 	},
 	"elements": [
 		{

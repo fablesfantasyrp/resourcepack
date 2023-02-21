@@ -1,8 +1,8 @@
 {
-	"credit": "Made with Blockbench by darwj",
+	"credit": "Made by darwj, and updated by snowbird829, with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "darwj_musical_instruments:conga/atlas"
+		"1": "darwj_musical_instruments:conga/conga"
 	},
 	"elements": [
 		{
