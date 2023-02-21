@@ -1,12 +1,12 @@
 {
-	"credit": "Made with Blockbench by snowbird829",
+	"credit": "Made by snowbird829 with Blockbench",
 	"textures": {
-		"0": "fablesfantasyrp:item/misc/pipe/tube",
-		"2": "fablesfantasyrp:item/misc/pipe/bowltop",
-		"3": "fablesfantasyrp:item/misc/pipe/holes",
-		"4": "fablesfantasyrp:item/misc/pipe/holegrad",
-		"5": "fablesfantasyrp:item/misc/pipe/bowlgrad",
-		"particle": "fablesfantasyrp:item/misc/pipe/tube"
+		"0": "fablesfantasyrp:item/misc/pipe/pipe_tube",
+		"2": "fablesfantasyrp:item/misc/pipe/pipe_bowl",
+		"3": "fablesfantasyrp:item/misc/pipe/pipe_holes",
+		"4": "fablesfantasyrp:item/misc/pipe/pipe_grad",
+		"5": "fablesfantasyrp:item/misc/pipe/bowl_grad",
+		"particle": "fablesfantasyrp:item/misc/pipe/pipe_tube"
 	},
 	"elements": [
 		{
@@ -111,20 +111,6 @@
 				"west": {"uv": [0, 0, 1.75, 1.5], "texture": "#0"},
 				"up": {"uv": [0, 0, 0.5, 1.75], "texture": "#0"},
 				"down": {"uv": [0, 0, 0.5, 1.75], "texture": "#0"}
-			}
-		},
-		{
-			"from": [6.5, 7.13431, 6.33656],
-			"to": [8.5, 9.13431, 7.33656],
-			"rotation": {"angle": -22.5, "axis": "x", "origin": [7, 8.13431, 4.83656]},
-			"color": 3,
-			"faces": {
-				"north": {"uv": [0, 0, 2, 2], "texture": "#missing"},
-				"east": {"uv": [0, 0, 1, 2], "texture": "#missing"},
-				"south": {"uv": [0, 0, 2, 2], "texture": "#missing"},
-				"west": {"uv": [0, 0, 1, 2], "texture": "#missing"},
-				"up": {"uv": [0, 0, 2, 1], "texture": "#missing"},
-				"down": {"uv": [0, 0, 2, 1], "texture": "#missing"}
 			}
 		},
 		{
@@ -253,17 +239,13 @@
 			"rotation": [-90, 0, 0]
 		},
 		"gui": {
-			"rotation": [-45, 0, -45],
-			"translation": [1, 1.75, 0],
+			"rotation": [-94, 0, 92.25],
+			"translation": [0, 2.25, 0],
 			"scale": [1.75, 1.75, 1.75]
-		},
-		"head": {
-			"rotation": [-90, 0, 0],
-			"translation": [0.5, -5.25, -9]
 		},
 		"fixed": {
 			"rotation": [-161.25, 0, 0],
-			"translation": [0, 0, -4.5],
+			"translation": [0, 0, -5.25],
 			"scale": [1.5, 1.5, 1.5]
 		}
 	},
@@ -283,13 +265,13 @@
 					"name": "bowl",
 					"origin": [7, 8.13431, 4.83656],
 					"color": 3,
-					"children": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+					"children": [3, 4, 5, 6, 7, 8, 9, 10, 11]
 				},
 				{
 					"name": "mouthpiece",
 					"origin": [7.705, 3.15723, 8.22012],
 					"color": 1,
-					"children": [13, 14, 15, 16]
+					"children": [12, 13, 14, 15]
 				}
 			]
 		}
