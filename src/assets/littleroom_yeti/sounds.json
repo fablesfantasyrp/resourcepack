@@ -1,0 +1,127 @@
+{
+   "littleroom.yeti.impact1":{
+		 "sounds": [
+			"littleroom/yeti/impact1"
+		 ]
+		 },
+   "littleroom.yeti.impact2":{
+		 "sounds": [
+			"littleroom/yeti/impact2"
+		 ]
+		 },
+   "littleroom.yeti.impact3":{
+		 "sounds": [
+			"littleroom/yeti/impact3"
+		 ]
+		 },
+   "littleroom.yeti.impact4":{
+		 "sounds": [
+			"littleroom/yeti/impact4"
+		 ]
+		 },
+   "littleroom.yeti.swing1":{
+		 "sounds": [
+			"littleroom/yeti/swing1"
+		 ]
+		 },
+   "littleroom.yeti.swing2":{
+		 "sounds": [
+			"littleroom/yeti/swing2"
+		 ]
+		 },
+   "littleroom.yeti.swing3":{
+		 "sounds": [
+			"littleroom/yeti/swing3"
+		 ]
+		 },
+   "littleroom.yeti.swing4":{
+		 "sounds": [
+			"littleroom/yeti/swing4"
+		 ]
+		 },
+   "littleroom.yeti.swing5":{
+		 "sounds": [
+			"littleroom/yeti/swing5"
+		 ]
+		 },
+   "littleroom.yeti.ground_impact1":{
+		 "sounds": [
+			"littleroom/yeti/ground_impact1"
+		 ]
+		 },
+   "littleroom.yeti.ground_impact2":{
+		 "sounds": [
+			"littleroom/yeti/ground_impact2"
+		 ]
+		 },
+   "littleroom.yeti.snowball_impact":{
+		 "sounds": [
+			"littleroom/yeti/snowball_impact"
+		 ]
+		 },
+   "littleroom.yeti.snowball_roll":{
+		 "sounds": [
+			"littleroom/yeti/snowball_roll"
+		 ]
+		 },
+   "littleroom.yeti.yeti_dig":{
+		 "sounds": [
+			"littleroom/yeti/yeti_dig"
+		 ]
+		 },
+   "littleroom.yeti.yeti_wind":{
+		 "sounds": [
+			"littleroom/yeti/yeti_wind"
+		 ]
+		 },
+   "littleroom.yeti.grunt1":{
+		 "sounds": [
+			"littleroom/yeti/grunt1"
+		 ]
+		 },
+   "littleroom.yeti.grunt2":{
+		 "sounds": [
+			"littleroom/yeti/grunt2"
+		 ]
+		 },
+   "littleroom.yeti.grunt3":{
+		 "sounds": [
+			"littleroom/yeti/grunt3"
+		 ]
+		 },
+   "littleroom.yeti.rage1":{
+		 "sounds": [
+			"littleroom/yeti/rage1"
+		 ]
+		 },
+   "littleroom.yeti.rage2":{
+		 "sounds": [
+			"littleroom/yeti/rage2"
+		 ]
+		 },
+   "littleroom.yeti.rage3":{
+		 "sounds": [
+			"littleroom/yeti/rage3"
+		 ]
+		 },
+   "littleroom.yeti.snow_grab1":{
+		 "sounds": [
+			"littleroom/yeti/snow_grab1"
+		 ]
+		 },
+   "littleroom.yeti.snow_grab2":{
+		 "sounds": [
+			"littleroom/yeti/snow_grab2"
+		 ]
+		 },
+   "littleroom.yeti.chest_spawn":{
+		 "sounds": [
+			"littleroom/yeti/chest_spawn"
+		 ]
+		 },
+   "littleroom.yeti.poof":{
+		 "sounds": [
+			"littleroom/yeti/poof"
+		 ]
+		 }
+}
