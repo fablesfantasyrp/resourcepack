@@ -21,6 +21,13 @@
       {"predicate": {"custom_model_data":15}, "model": "littleroom_trollpack:troll_voodoo_staff"},
       {"predicate": {"custom_model_data":16}, "model": "item/nocsy/undeadpack/nocsy_fpv2_dog_icon"},
       {"predicate": {"custom_model_data":17}, "model": "littleroom_yeti:yeti_axe"},
-      {"predicate": {"custom_model_data":18}, "model": "littleroom_yeti:yeti_hat"}
+      {"predicate": {"custom_model_data":18}, "model": "littleroom_yeti:yeti_hat"},
+		  {"predicate": {"custom_model_data":19}, "model": "littleroom_anubis:lr_anubis_laser"},
+		  {"predicate": {"custom_model_data":20}, "model": "littleroom_anubis:lr_anubis_bullethell"},
+		  {"predicate": {"custom_model_data":21}, "model": "littleroom_anubis:lr_anubisslasheffect"},
+		  {"predicate": {"custom_model_data":22}, "model": "littleroom_kriger:kriger_deathbreath"},
+      {"predicate": {"custom_model_data":23}, "model": "littleroom_minotaur:rock_throw"},
+      {"predicate": {"custom_model_data":24}, "model": "littleroom_minotaur:lr_minotaur_whirlwind"},
+		  {"predicate": {"custom_model_data":25}, "model": "littleroom_tortus:coconut"}
     ]
 }

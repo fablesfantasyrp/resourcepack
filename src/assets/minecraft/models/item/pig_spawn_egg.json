@@ -2,6 +2,7 @@
   "parent": "minecraft:item/template_spawn_egg",
 	"overrides": [
 		{"predicate": {"custom_model_data":1}, "model": "littleroom_catapult:pig"},
-		{"predicate": {"custom_model_data":2}, "model": "littleroom_catapult:catapult"}
+		{"predicate": {"custom_model_data":2}, "model": "littleroom_catapult:catapult"},
+		{"predicate": {"custom_model_data":3}, "model": "littleroom_tortus:coconut"}
 	]
 }

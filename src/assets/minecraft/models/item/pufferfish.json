@@ -1,0 +1,21 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/pufferfish"
+    },
+    "overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "littleroom_aquaticpack:raw_sardine"},
+		{"predicate": {"custom_model_data":2}, "model": "littleroom_aquaticpack:raw_barreleye"},
+		{"predicate": {"custom_model_data":3}, "model": "littleroom_aquaticpack:raw_footballfish"},
+		{"predicate": {"custom_model_data":4}, "model": "littleroom_aquaticpack:raw_hammerheadshark"},
+		{"predicate": {"custom_model_data":5}, "model": "littleroom_aquaticpack:raw_oarfish"},
+		{"predicate": {"custom_model_data":6}, "model": "littleroom_aquaticpack:raw_seahorse_pink"},
+		{"predicate": {"custom_model_data":7}, "model": "littleroom_aquaticpack:raw_seahorse_purple"},
+		{"predicate": {"custom_model_data":8}, "model": "littleroom_aquaticpack:raw_seahorse_red"},
+		{"predicate": {"custom_model_data":9}, "model": "littleroom_aquaticpack:raw_seahorse_teal"},
+		{"predicate": {"custom_model_data":10}, "model": "littleroom_aquaticpack:raw_seahorse_yellow"},
+		{"predicate": {"custom_model_data":11}, "model": "littleroom_aquaticpack:raw_swordfish"},
+		{"predicate": {"custom_model_data":12}, "model": "littleroom_aquaticpack:raw_zebraturkeyfish"}
+
+        ]
+}

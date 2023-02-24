@@ -3,7 +3,9 @@
     "textures": {
         "layer0": "item/paper"
     },
-	"overrides": [	
-		{"predicate": {"custom_model_data":2134}, "model": "necromancer_model/eternal_flame"}
+	"overrides": [
+      {"predicate": {"custom_model_data":2134}, "model": "necromancer_model/eternal_flame"},
+      {"predicate": {"custom_model_data":1}, "model": "littleroom_kraken:diverhelmet"},
+		  {"predicate": {"custom_model_data":2}, "model": "littleroom_medusa:medusa_head"}
     ]
 }

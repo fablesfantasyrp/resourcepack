@@ -15,6 +15,7 @@
     {"predicate": {"custom_model_data": 9}, "model": "fablesfantasyrp:item/weapons/light_blue_lance"},
     {"predicate": {"custom_model_data": 10}, "model": "fablesfantasyrp:item/weapons/scimitar"},
     {"predicate": {"custom_model_data": 11}, "model": "fablesfantasyrp:item/weapons/anjyarr_spear"},
-    {"predicate": {"custom_model_data": 12}, "model": "fablesfantasyrp:item/weapons/orc_sword"}
-    ]
-  }
+    {"predicate": {"custom_model_data": 12}, "model": "fablesfantasyrp:item/weapons/orc_sword"},
+		{"predicate": {"custom_model_data": 13}, "model": "littleroom_kraken:chitin_spear"}
+  ]
+}

@@ -1,0 +1,117 @@
+{
+   "littleroom.minotaur.bull1":{
+		 "sounds": [
+			"littleroom/minotaur/bull1"
+		 ]
+		 },
+   "littleroom.minotaur.chain1":{
+		 "sounds": [
+			"littleroom/minotaur/chain1"
+		 ]
+		 },
+   "littleroom.minotaur.chain2":{
+		 "sounds": [
+			"littleroom/minotaur/chain2"
+		 ]
+		 },
+   "littleroom.minotaur.chain3":{
+		 "sounds": [
+			"littleroom/minotaur/chain3"
+		 ]
+		 },
+   "littleroom.minotaur.chain4":{
+		 "sounds": [
+			"littleroom/minotaur/chain4"
+		 ]
+		 },
+   "littleroom.minotaur.grunt1":{
+		 "sounds": [
+			"littleroom/minotaur/grunt1"
+		 ]
+		 },
+   "littleroom.minotaur.grunt2":{
+		 "sounds": [
+			"littleroom/minotaur/grunt2"
+		 ]
+		 },
+   "littleroom.minotaur.grunt3":{
+		 "sounds": [
+			"littleroom/minotaur/grunt3"
+		 ]
+		 },
+   "littleroom.minotaur.grunt4":{
+		 "sounds": [
+			"littleroom/minotaur/grunt4"
+		 ]
+		 },
+   "littleroom.minotaur.impact1":{
+		 "sounds": [
+			"littleroom/minotaur/impact1"
+		 ]
+		 },
+   "littleroom.minotaur.impact2":{
+		 "sounds": [
+			"littleroom/minotaur/impact2"
+		 ]
+		 },
+   "littleroom.minotaur.impact3":{
+		 "sounds": [
+			"littleroom/minotaur/impact3"
+		 ]
+		 },
+   "littleroom.minotaur.impact4":{
+		 "sounds": [
+			"littleroom/minotaur/impact4"
+		 ]
+		 },
+   "littleroom.minotaur.leap1":{
+		 "sounds": [
+			"littleroom/minotaur/leap1"
+		 ]
+		 },
+   "littleroom.minotaur.leap2":{
+		 "sounds": [
+			"littleroom/minotaur/leap2"
+		 ]
+		 },
+   "littleroom.minotaur.swing1":{
+		 "sounds": [
+			"littleroom/minotaur/swing1"
+		 ]
+		 },
+   "littleroom.minotaur.swing2":{
+		 "sounds": [
+			"littleroom/minotaur/swing2"
+		 ]
+		 },
+   "littleroom.minotaur.swing3":{
+		 "sounds": [
+			"littleroom/minotaur/swing3"
+		 ]
+		 },
+   "littleroom.minotaur.swing4":{
+		 "sounds": [
+			"littleroom/minotaur/swing4"
+		 ]
+		 },
+   "littleroom.minotaur.wind1":{
+		 "sounds": [
+			"littleroom/minotaur/wind1"
+		 ]
+		 },
+   "littleroom.minotaur.ground1":{
+		 "sounds": [
+			"littleroom/minotaur/ground1"
+		 ]
+		 },
+   "littleroom.minotaur.ground2":{
+		 "sounds": [
+			"littleroom/minotaur/ground2"
+		 ]
+		 },
+   "littleroom.minotaur.ground3":{
+		 "sounds": [
+			"littleroom/minotaur/ground3"
+	     ]
+   }
+}

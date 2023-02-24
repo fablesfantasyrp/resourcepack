@@ -1,0 +1,62 @@
+{
+   "littleroom.medusa.death":{
+		 "sounds": [
+			"littleroom/medusa/death"
+		 ]
+	},
+   "littleroom.medusa.deathfall":{
+		 "sounds": [
+			"littleroom/medusa/deathfall"
+		 ]
+	},
+   "littleroom.medusa.glare":{
+		 "sounds": [
+			"littleroom/medusa/glare"
+		 ]
+	},
+   "littleroom.medusa.rockbreak1":{
+		 "sounds": [
+			"littleroom/medusa/rockbreak1"
+		 ]
+	},
+   "littleroom.medusa.rockbreak2":{
+		 "sounds": [
+			"littleroom/medusa/rockbreak2"
+		 ]
+	},
+   "littleroom.medusa.rockbreak3":{
+		 "sounds": [
+			"littleroom/medusa/rockbreak3"
+		 ]
+	},
+   "littleroom.medusa.shoot":{
+		 "sounds": [
+			"littleroom/medusa/shoot"
+		 ]
+	},
+   "littleroom.medusa.spin":{
+		 "sounds": [
+			"littleroom/medusa/spin"
+		 ]
+	},
+   "littleroom.medusa.step1":{
+		 "sounds": [
+			"littleroom/medusa/step1"
+		 ]
+	},
+   "littleroom.medusa.step2":{
+		 "sounds": [
+			"littleroom/medusa/step2"
+		 ]
+	},
+   "littleroom.medusa.swipe":{
+		 "sounds": [
+			"littleroom/medusa/swipe"
+		 ]
+	},
+   "littleroom.medusa.twinsnakes":{
+		 "sounds": [
+			"littleroom/medusa/twinsnakes"
+		 ]
+	}
+}
