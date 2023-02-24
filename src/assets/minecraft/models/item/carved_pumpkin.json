@@ -1,6 +1,8 @@
 {
-    "parent": "block/carved_pumpkin",
+  "parent": "block/carved_pumpkin",
 	"overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "littleroom_desertpack:item/pharaohhat"}
+		{"predicate": {"custom_model_data":1}, "model": "littleroom_desertpack:item/pharaohhat"},
+		{"predicate": {"custom_model_data":2}, "model": "littleroom_deadbeard:item/corsair"},
+		{"predicate": {"custom_model_data":3}, "model": "littleroom_deadbeard:item/bandana"}
 	]
 }
