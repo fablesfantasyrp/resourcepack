@@ -1,0 +1,42 @@
+{
+   "littleroom.headcrab.bite":{
+		 "sounds": [
+			"littleroom/headcrab/bite"
+		 ]
+	},
+   "littleroom.headcrab.die1":{
+		 "sounds": [
+			"littleroom/headcrab/die1"
+		 ]
+	},
+   "littleroom.headcrab.die2":{
+		 "sounds": [
+			"littleroom/headcrab/die2"
+		 ]
+	},
+   "littleroom.headcrab.hurt":{
+		 "sounds": [
+			"littleroom/headcrab/hurt"
+		 ]
+	},
+   "littleroom.headcrab.idle":{
+		 "sounds": [
+			"littleroom/headcrab/idle"
+		 ]
+	},
+   "littleroom.headcrab.leap":{
+		 "sounds": [
+			"littleroom/headcrab/leap"
+		 ]
+	},
+   "littleroom.headcrab.spotted":{
+		 "sounds": [
+			"littleroom/headcrab/spotted"
+		 ]
+	},
+   "littleroom.headcrab.gib":{
+		 "sounds": [
+			"littleroom/headcrab/gib"
+		 ]
+	}
+}

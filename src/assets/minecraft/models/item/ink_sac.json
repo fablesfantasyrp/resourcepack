@@ -28,6 +28,7 @@
 		  {"predicate": {"custom_model_data":22}, "model": "littleroom_kriger:kriger_deathbreath"},
       {"predicate": {"custom_model_data":23}, "model": "littleroom_minotaur:rock_throw"},
       {"predicate": {"custom_model_data":24}, "model": "littleroom_minotaur:lr_minotaur_whirlwind"},
-		  {"predicate": {"custom_model_data":25}, "model": "littleroom_tortus:coconut"}
+		  {"predicate": {"custom_model_data":25}, "model": "littleroom_tortus:coconut"},
+      {"predicate": {"custom_model_data":26}, "model": "littleroom_skog:yggdrasil_fruit"}
     ]
 }

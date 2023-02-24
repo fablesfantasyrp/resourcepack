@@ -64,6 +64,8 @@
         { "predicate": {"custom_model_data":7}, "model": "littleroom_yeti:yeti_shield"},
         { "predicate": {"custom_model_data":7,  "blocking": 1}, "model": "littleroom_yeti:yeti_shield_blocking"},
         {"predicate": {"custom_model_data":8}, "model": "littleroom_tortus:giant_turtle_shield"},
-        {"predicate": {"custom_model_data":8,  "blocking": 1}, "model": "littleroom_tortus:giant_turtle_shield_blocking"}
+        {"predicate": {"custom_model_data":8,  "blocking": 1}, "model": "littleroom_tortus:giant_turtle_shield_blocking"},
+        {"predicate": {"custom_model_data":9}, "model": "littleroom_magnus:magnus_shield"},
+        {"predicate": {"custom_model_data":9,  "blocking": 1}, "model": "littleroom_magnus:magnus_shield_blocking"}
     ]
 }

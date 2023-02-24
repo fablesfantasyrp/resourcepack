@@ -6,6 +6,14 @@
 	"overrides": [
       {"predicate": {"custom_model_data":2134}, "model": "necromancer_model/eternal_flame"},
       {"predicate": {"custom_model_data":1}, "model": "littleroom_kraken:diverhelmet"},
-		  {"predicate": {"custom_model_data":2}, "model": "littleroom_medusa:medusa_head"}
+		  {"predicate": {"custom_model_data":2}, "model": "littleroom_medusa:medusa_head"},
+		  {"predicate": {"custom_model_data":3}, "model": "littleroom_capra:capra/horns"},
+      {"predicate": {"custom_model_data":4}, "model": "littleroom_magnus:magnus_helmet"},
+      {"predicate": {"custom_model_data":5}, "model": "littleroom_magnus:magnus_shard"},
+      {"predicate": {"custom_model_data":6}, "model": "littleroom_headcrab:headcrab"},
+      {"predicate": {"custom_model_data":7}, "model": "littleroom_headcrab:xengib1"},
+      {"predicate": {"custom_model_data":8}, "model": "littleroom_headcrab:xengib2"},
+      {"predicate": {"custom_model_data":9}, "model": "littleroom_axolotl:axolotl_hat"},
+      {"predicate": {"custom_model_data":10}, "model": "littleroom_axolotl:fire_axolotl_hat"}
     ]
 }
