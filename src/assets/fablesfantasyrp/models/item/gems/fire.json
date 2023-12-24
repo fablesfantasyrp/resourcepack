@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "fablesfantasyrp:item/gems/fire/fire"
+    "layer0": "fablesfantasyrp:custom/item/gems/fire/fire"
   }
 }

@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "fablesfantasyrp:gui/progressbar_2"
+    "layer0": "fablesfantasyrp:custom/gui/progressbar_2"
   }
 }

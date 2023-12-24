@@ -1,12 +1,12 @@
 {
 	"credit": "Made by snowbird829 with Blockbench",
 	"textures": {
-		"0": "fablesfantasyrp:item/misc/pipe/pipe_tube",
-		"2": "fablesfantasyrp:item/misc/pipe/pipe_bowl",
-		"3": "fablesfantasyrp:item/misc/pipe/pipe_holes",
-		"4": "fablesfantasyrp:item/misc/pipe/pipe_grad",
-		"5": "fablesfantasyrp:item/misc/pipe/bowl_grad",
-		"particle": "fablesfantasyrp:item/misc/pipe/pipe_tube"
+		"0": "fablesfantasyrp:custom/item/misc/pipe/pipe_tube",
+		"2": "fablesfantasyrp:custom/item/misc/pipe/pipe_bowl",
+		"3": "fablesfantasyrp:custom/item/misc/pipe/pipe_holes",
+		"4": "fablesfantasyrp:custom/item/misc/pipe/pipe_grad",
+		"5": "fablesfantasyrp:custom/item/misc/pipe/bowl_grad",
+		"particle": "fablesfantasyrp:custom/item/misc/pipe/pipe_tube"
 	},
 	"elements": [
 		{

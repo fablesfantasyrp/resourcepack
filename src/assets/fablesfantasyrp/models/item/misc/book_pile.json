@@ -1,17 +1,17 @@
 {
 	"credit": "Made with Blockbench by snowbird829",
 	"textures": {
-		"0": "fablesfantasyrp:item/misc/book_pile/book1",
-		"1": "fablesfantasyrp:item/misc/book_pile/book12",
-		"2": "fablesfantasyrp:item/misc/book_pile/book2",
-		"3": "fablesfantasyrp:item/misc/book_pile/book22",
-		"4": "fablesfantasyrp:item/misc/book_pile/book3",
-		"5": "fablesfantasyrp:item/misc/book_pile/book32",
-		"6": "fablesfantasyrp:item/misc/book_pile/pages1",
-		"7": "fablesfantasyrp:item/misc/book_pile/pages2",
-		"8": "fablesfantasyrp:item/misc/book_pile/pages3",
-		"9": "fablesfantasyrp:item/misc/book_pile/book33",
-		"particle": "fablesfantasyrp:item/misc/book_pile/book1"
+		"0": "fablesfantasyrp:custom/item/misc/book_pile/book1",
+		"1": "fablesfantasyrp:custom/item/misc/book_pile/book12",
+		"2": "fablesfantasyrp:custom/item/misc/book_pile/book2",
+		"3": "fablesfantasyrp:custom/item/misc/book_pile/book22",
+		"4": "fablesfantasyrp:custom/item/misc/book_pile/book3",
+		"5": "fablesfantasyrp:custom/item/misc/book_pile/book32",
+		"6": "fablesfantasyrp:custom/item/misc/book_pile/pages1",
+		"7": "fablesfantasyrp:custom/item/misc/book_pile/pages2",
+		"8": "fablesfantasyrp:custom/item/misc/book_pile/pages3",
+		"9": "fablesfantasyrp:custom/item/misc/book_pile/book33",
+		"particle": "fablesfantasyrp:custom/item/misc/book_pile/book1"
 	},
 	"elements": [
 		{

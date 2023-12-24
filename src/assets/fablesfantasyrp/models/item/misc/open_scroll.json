@@ -2,10 +2,10 @@
 	"credit": "Made with Blockbench by snowbird829",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "fablesfantasyrp:item/misc/open_scroll/Scroll",
-		"2": "fablesfantasyrp:item/misc/open_scroll/Edges",
-		"3": "fablesfantasyrp:item/misc/open_scroll/Paper",
-		"particle": "fablesfantasyrp:item/misc/open_scroll/Paper"
+		"1": "fablesfantasyrp:custom/item/misc/open_scroll/Scroll",
+		"2": "fablesfantasyrp:custom/item/misc/open_scroll/Edges",
+		"3": "fablesfantasyrp:custom/item/misc/open_scroll/Paper",
+		"particle": "fablesfantasyrp:custom/item/misc/open_scroll/Paper"
 	},
 	"elements": [
 		{

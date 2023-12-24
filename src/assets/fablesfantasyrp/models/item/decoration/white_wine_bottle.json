@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench. Unknown author.",
 	"textures": {
-		"1": "fablesfantasyrp:item/decoration/white_wine_bottle/green_glass",
-		"2": "fablesfantasyrp:item/decoration/white_wine_bottle/white_wine",
-		"3": "fablesfantasyrp:item/decoration/white_wine_bottle/wine_bottle",
-		"particle": "fablesfantasyrp:item/decoration/white_wine_bottle/white_wine"
+		"1": "fablesfantasyrp:custom/item/decoration/white_wine_bottle/green_glass",
+		"2": "fablesfantasyrp:custom/item/decoration/white_wine_bottle/white_wine",
+		"3": "fablesfantasyrp:custom/item/decoration/white_wine_bottle/wine_bottle",
+		"particle": "fablesfantasyrp:custom/item/decoration/white_wine_bottle/white_wine"
 	},
 	"elements": [
 		{

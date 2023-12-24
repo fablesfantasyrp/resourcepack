@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench. Unknown author.",
 	"textures": {
-		"0": "fablesfantasyrp:item/decoration/red_wine_glass/wine_glass",
-		"1": "fablesfantasyrp:item/decoration/red_wine_glass/red_wine",
-		"particle": "fablesfantasyrp:item/decoration/red_wine_glass/wine_glass"
+		"0": "fablesfantasyrp:custom/item/decoration/red_wine_glass/wine_glass",
+		"1": "fablesfantasyrp:custom/item/decoration/red_wine_glass/red_wine",
+		"particle": "fablesfantasyrp:custom/item/decoration/red_wine_glass/wine_glass"
 	},
 	"elements": [
 		{

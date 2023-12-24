@@ -1,9 +1,9 @@
 {
 	"credit": "Made by snowbird829 with Blockbench",
 	"textures": {
-		"1": "fablesfantasyrp:item/decoration/teaset_1/teaset_1_2",
-		"2": "fablesfantasyrp:item/decoration/teaset_1/teaset_1_1",
-		"particle": "fablesfantasyrp:item/decoration/teaset_1/teaset_1_1"
+		"1": "fablesfantasyrp:custom/item/decoration/teaset_1/teaset_1_2",
+		"2": "fablesfantasyrp:custom/item/decoration/teaset_1/teaset_1_1",
+		"particle": "fablesfantasyrp:custom/item/decoration/teaset_1/teaset_1_1"
 	},
 	"elements": [
 		{

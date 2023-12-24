@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench by snowbird829",
 	"textures": {
-		"1": "fablesfantasyrp:item/misc/scroll_stack/Scroll",
-		"2": "fablesfantasyrp:item/misc/scroll_stack/Edges"
+		"1": "fablesfantasyrp:custom/item/misc/scroll_stack/Scroll",
+		"2": "fablesfantasyrp:custom/item/misc/scroll_stack/Edges"
 	},
 	"elements": [
 		{

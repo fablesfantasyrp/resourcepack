@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "fablesfantasyrp:gui/number_eight"
+    "layer0": "fablesfantasyrp:custom/gui/number_eight"
   }
 }

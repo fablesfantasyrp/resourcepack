@@ -1,8 +1,8 @@
 {
 	"credit": "Made by snowbird829 with Blockbench",
 	"textures": {
-		"2": "fablesfantasyrp:item/decoration/teacup_1/teacup_1",
-		"particle": "fablesfantasyrp:item/decoration/teacup_1/teacup_1"
+		"2": "fablesfantasyrp:custom/item/decoration/teacup_1/teacup_1",
+		"particle": "fablesfantasyrp:custom/item/decoration/teacup_1/teacup_1"
 	},
 	"elements": [
 		{

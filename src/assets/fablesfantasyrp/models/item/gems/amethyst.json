@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "fablesfantasyrp:item/gems/amethyst/amethyst"
+    "layer0": "fablesfantasyrp:custom/item/gems/amethyst/amethyst"
   }
 }

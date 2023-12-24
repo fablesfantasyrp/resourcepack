@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "fablesfantasyrp:item/gems/sanguine_relic/sanguine_relic"
+    "layer0": "fablesfantasyrp:custom/item/gems/sanguine_relic/sanguine_relic"
   }
 }

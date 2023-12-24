@@ -1,9 +1,9 @@
 {
 	"credit": "Made by snowbird829 with Blockbench",
 	"textures": {
-		"0": "fablesfantasyrp:item/misc/stein/atlasstein",
-		"1": "fablesfantasyrp:item/misc/stein/Liquid",
-		"particle": "fablesfantasyrp:item/misc/stein/atlasstein"
+		"0": "fablesfantasyrp:custom/item/misc/stein/atlasstein",
+		"1": "fablesfantasyrp:custom/item/misc/stein/Liquid",
+		"particle": "fablesfantasyrp:custom/item/misc/stein/atlasstein"
 	},
 	"elements": [
 		{

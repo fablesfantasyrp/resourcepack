@@ -2,7 +2,7 @@
 	"credit": "Made by snowbird829 with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "fablesfantasyrp:item/misc/paper_stack/Paper"
+		"1": "fablesfantasyrp:custom/item/misc/paper_stack/Paper"
 	},
 	"elements": [
 		{

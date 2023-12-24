@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "fablesfantasyrp:gui/cross"
+    "layer0": "fablesfantasyrp:custom/gui/cross"
   }
 }

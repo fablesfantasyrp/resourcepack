@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench by snowbird829",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "fablesfantasyrp:item/misc/mortar_and_pestle/bowl",
-		"particle": "fablesfantasyrp:item/misc/mortar_and_pestle/bowl"
+		"0": "fablesfantasyrp:custom/item/misc/mortar_and_pestle/bowl",
+		"particle": "fablesfantasyrp:custom/item/misc/mortar_and_pestle/bowl"
 	},
 	"elements": [
 		{
