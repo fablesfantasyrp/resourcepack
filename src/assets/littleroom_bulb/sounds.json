@@ -1,0 +1,27 @@
+{
+   "littleroom.bulb.surprise":{
+		 "sounds": [
+			"littleroom_bulb:surprise"
+		 ]
+	},
+   "littleroom.bulb.idle1":{
+		 "sounds": [
+			"littleroom_bulb:idle1"
+		 ]
+	},
+   "littleroom.bulb.idle2":{
+		 "sounds": [
+			"littleroom_bulb:idle2"
+		 ]
+	},
+   "littleroom.bulb.idle3":{
+		 "sounds": [
+			"littleroom_bulb:idle3"
+		 ]
+	},
+   "littleroom.bulb.poof":{
+		 "sounds": [
+			"littleroom_bulb:poof"
+		 ]
+	}
+}
