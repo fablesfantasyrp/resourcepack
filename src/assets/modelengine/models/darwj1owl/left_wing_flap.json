@@ -1,0 +1,1 @@
+{"textures":{"1":"modelengine:entity/owl_animated"},"elements":[{"from":[4.0000005,8.0,5.2],"to":[8.0,8.0,10.95],"faces":{"up":{"uv":[2.0,6.0,0.0,3.0],"tintindex":0,"rotation":0,"texture":"#1"},"down":{"uv":[4.0,3.0,2.0,6.0],"tintindex":0,"rotation":0,"texture":"#1"}},"rotation":{"origin":[6.0000005,2.0,9.0],"angle":0.0,"axis":"x"}}],"display":{"gui":{"rotation":[30,225,0]}}}
