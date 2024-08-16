@@ -1,0 +1,26 @@
+{
+	"__comment": "Made by Gunging. You know, I will probably not mind teaching you how to do this. https://discord.gg/E9ZcKf9",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "block/black_stained_glass"
+	},
+	
+	"overrides": [
+		{ "predicate": { "custom_model_data": 2985 }, "model": "item/goop_containers/container_edge_island" },
+		{ "predicate": { "custom_model_data": 2986 }, "model": "item/goop_containers/container_edge_wm_penninsula" },
+		{ "predicate": { "custom_model_data": 2987 }, "model": "item/goop_containers/container_edge_wm_bridge" },
+		{ "predicate": { "custom_model_data": 2988 }, "model": "item/goop_containers/container_edge_wm_southshore" },
+		{ "predicate": { "custom_model_data": 2989 }, "model": "item/goop_containers/container_edge_wm_northshore" },
+		{ "predicate": { "custom_model_data": 2990 }, "model": "item/goop_containers/container_edge_wm_northcorner" },
+		{ "predicate": { "custom_model_data": 2991 }, "model": "item/goop_containers/container_edge_wm_eastshore" },
+		{ "predicate": { "custom_model_data": 2992 }, "model": "item/goop_containers/container_edge_wm_southcorner" },
+		{ "predicate": { "custom_model_data": 2993 }, "model": "item/goop_containers/container_edge_nm_penninsula" },
+		{ "predicate": { "custom_model_data": 2994 }, "model": "item/goop_containers/container_edge_nm_bridge" },
+		{ "predicate": { "custom_model_data": 2995 }, "model": "item/goop_containers/container_edge_nm_westshore" },
+		{ "predicate": { "custom_model_data": 2996 }, "model": "item/goop_containers/container_edge_nm_eastcorner" },
+		{ "predicate": { "custom_model_data": 2997 }, "model": "item/goop_containers/container_edge_em_penninsula" },
+		{ "predicate": { "custom_model_data": 2998 }, "model": "item/goop_containers/container_edge_em_southcorner" },
+		{ "predicate": { "custom_model_data": 2999 }, "model": "item/goop_containers/container_edge_sm_penninsula" },
+		{ "predicate": { "custom_model_data": 3000 }, "model": "item/goop_containers/container_edge_mainland" }
+	]
+}

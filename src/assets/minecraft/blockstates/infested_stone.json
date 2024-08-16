@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "fablesfantasyrp:block/ores/silver_ore"
+      },
+      {
+        "model": "fablesfantasyrp:block/ores/silver_ore"
+      },
+      {
+        "model": "fablesfantasyrp:block/ores/silver_ore",
+        "y": 180
+      },
+      {
+        "model": "fablesfantasyrp:block/ores/silver_ore",
+        "y": 180
+      }
+    ]
+  }
+}

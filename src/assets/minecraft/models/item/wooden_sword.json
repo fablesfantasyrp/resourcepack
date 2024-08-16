@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/wooden_sword"
+  },
+  "overrides": [
+	{"predicate": {"custom_model_data": 1}, "model": "fablesfantasyrp:item/plants/berries/blimberry_bandage"},
+  {"predicate": {"custom_model_data": 2}, "model": "fablesfantasyrp:item/gems/tools/iron_saw"}
+  ]
+}

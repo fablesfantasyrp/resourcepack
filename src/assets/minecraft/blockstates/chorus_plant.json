@@ -1,0 +1,290 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "minecraft:block/chorus_plant_side"
+      },
+      "when": {
+        "north": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/chorus_plant_side",
+        "uvlock": true,
+        "y": 90
+      },
+      "when": {
+        "east": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/chorus_plant_side",
+        "uvlock": true,
+        "y": 180
+      },
+      "when": {
+        "south": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/chorus_plant_side",
+        "uvlock": true,
+        "y": 270
+      },
+      "when": {
+        "west": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/chorus_plant_side",
+        "uvlock": true,
+        "x": 270
+      },
+      "when": {
+        "up": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/chorus_plant_side",
+        "uvlock": true,
+        "x": 90
+      },
+      "when": {
+        "down": "true"
+      }
+    },
+    {
+      "apply": [
+        {
+          "model": "minecraft:block/chorus_plant_noside",
+          "weight": 2
+        },
+        {
+          "model": "minecraft:block/chorus_plant_noside1"
+        },
+        {
+          "model": "minecraft:block/chorus_plant_noside2"
+        },
+        {
+          "model": "minecraft:block/chorus_plant_noside3"
+        }
+      ],
+      "when": {
+        "north": "false"
+      }
+    },
+    {
+      "apply": [
+        {
+          "model": "minecraft:block/chorus_plant_noside1",
+          "uvlock": true,
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/chorus_plant_noside2",
+          "uvlock": true,
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/chorus_plant_noside3",
+          "uvlock": true,
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/chorus_plant_noside",
+          "uvlock": true,
+          "weight": 2,
+          "y": 90
+        }
+      ],
+      "when": {
+        "east": "false"
+      }
+    },
+    {
+      "apply": [
+        {
+          "model": "minecraft:block/chorus_plant_noside2",
+          "uvlock": true,
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/chorus_plant_noside3",
+          "uvlock": true,
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/chorus_plant_noside",
+          "uvlock": true,
+          "weight": 2,
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/chorus_plant_noside1",
+          "uvlock": true,
+          "y": 180
+        }
+      ],
+      "when": {
+        "south": "false"
+      }
+    },
+    {
+      "apply": [
+        {
+          "model": "minecraft:block/chorus_plant_noside3",
+          "uvlock": true,
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/chorus_plant_noside",
+          "uvlock": true,
+          "weight": 2,
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/chorus_plant_noside1",
+          "uvlock": true,
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/chorus_plant_noside2",
+          "uvlock": true,
+          "y": 270
+        }
+      ],
+      "when": {
+        "west": "false"
+      }
+    },
+    {
+      "apply": [
+        {
+          "model": "minecraft:block/chorus_plant_noside",
+          "uvlock": true,
+          "weight": 2,
+          "x": 270
+        },
+        {
+          "model": "minecraft:block/chorus_plant_noside3",
+          "uvlock": true,
+          "x": 270
+        },
+        {
+          "model": "minecraft:block/chorus_plant_noside1",
+          "uvlock": true,
+          "x": 270
+        },
+        {
+          "model": "minecraft:block/chorus_plant_noside2",
+          "uvlock": true,
+          "x": 270
+        }
+      ],
+      "when": {
+        "up": "false"
+      }
+    },
+    {
+      "apply": [
+        {
+          "model": "minecraft:block/chorus_plant_noside3",
+          "uvlock": true,
+          "x": 90
+        },
+        {
+          "model": "minecraft:block/chorus_plant_noside2",
+          "uvlock": true,
+          "x": 90
+        },
+        {
+          "model": "minecraft:block/chorus_plant_noside1",
+          "uvlock": true,
+          "x": 90
+        },
+        {
+          "model": "minecraft:block/chorus_plant_noside",
+          "uvlock": true,
+          "weight": 2,
+          "x": 90
+        }
+      ],
+      "when": {
+        "down": "false"
+      }
+    }
+  ],
+  "variants": {
+    "up=false,down=false,north=false,south=false,east=false,west=false": {
+      "model": "minecraft:block/stone"
+    },
+    "up=true,down=false,north=false,south=false,east=false,west=false": {
+      "model": "minecraft:block/deepslate"
+    },
+    "up=false,down=true,north=false,south=false,east=false,west=false": {
+      "model": "minecraft:block/stone"
+    },
+    "up=false,down=false,north=true,south=false,east=false,west=false": {
+      "model": "minecraft:block/deepslate"
+    },
+    "up=false,down=false,north=false,south=true,east=false,west=false": {
+      "model": "minecraft:block/stone"
+    },
+    "up=false,down=false,north=false,south=false,east=true,west=false": {
+      "model": "minecraft:block/deepslate"
+    },
+    "up=false,down=false,north=false,south=false,east=false,west=true": {
+      "model": "minecraft:block/stone"
+    },
+    "up=true,down=true,north=false,south=false,east=false,west=false": {
+      "model": "minecraft:block/deepslate"
+    },
+    "up=true,down=false,north=true,south=false,east=false,west=false": {
+      "model": "minecraft:block/stone"
+    },
+    "up=true,down=false,north=false,south=true,east=false,west=false": {
+      "model": "minecraft:block/deepslate"
+    },
+    "up=true,down=false,north=false,south=false,east=true,west=false": {
+      "model": "minecraft:block/stone"
+    },
+    "up=true,down=false,north=false,south=false,east=false,west=true": {
+      "model": "minecraft:block/deepslate"
+    },
+    "up=false,down=true,north=true,south=false,east=false,west=false": {
+      "model": "minecraft:block/stone"
+    },
+    "up=false,down=true,north=false,south=true,east=false,west=false": {
+      "model": "minecraft:block/deepslate"
+    },
+    "up=false,down=true,north=false,south=false,east=true,west=false": {
+      "model": "minecraft:block/stone"
+    },
+    "up=false,down=true,north=false,south=false,east=false,west=true": {
+      "model": "minecraft:block/stone"
+    },
+    "up=false,down=false,north=true,south=true,east=false,west=false": {
+      "model": "minecraft:block/stone"
+    },
+    "up=false,down=false,north=true,south=false,east=true,west=false": {
+      "model": "minecraft:block/stone"
+    },
+    "up=false,down=false,north=true,south=false,east=false,west=true": {
+      "model": "minecraft:block/stone"
+    },
+    "up=false,down=false,north=false,south=true,east=true,west=false": {
+      "model": "minecraft:block/stone"
+    },
+    "up=false,down=false,north=false,south=true,east=false,west=true": {
+      "model": "minecraft:block/stone"
+    },
+    "up=false,down=false,north=false,south=false,east=true,west=true": {
+      "model": "minecraft:block/stone"
+    }
+  }
+}

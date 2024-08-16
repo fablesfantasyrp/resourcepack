@@ -1,0 +1,23 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/cookie"
+  },
+  "overrides": [
+  {"predicate": {"custom_model_data": 1}, "model": "fablesfantasyrp:item/plants/aquatic/witch_weed_leaves"},
+  {"predicate": {"custom_model_data": 2}, "model": "fablesfantasyrp:item/plants/berries/aracberry"},
+  {"predicate": {"custom_model_data": 3}, "model": "fablesfantasyrp:item/plants/berries/blimberry"},
+  {"predicate": {"custom_model_data": 4}, "model": "fablesfantasyrp:item/plants/berries/blimberry_seeds"},
+  {"predicate": {"custom_model_data": 5}, "model": "fablesfantasyrp:item/plants/berries/blimberry_paste"},
+  {"predicate": {"custom_model_data": 6}, "model": "fablesfantasyrp:item/plants/berries/brainberry"},
+  {"predicate": {"custom_model_data": 7}, "model": "fablesfantasyrp:item/plants/berries/firefruit_seeds"},
+  {"predicate": {"custom_model_data": 8}, "model": "fablesfantasyrp:item/plants/berries/stoneberry"},
+  {"predicate": {"custom_model_data": 9}, "model": "fablesfantasyrp:item/plants/flowers/lavendar_roots"},
+  {"predicate": {"custom_model_data": 10}, "model": "fablesfantasyrp:item/plants/flowers/sunflower_seeds"},
+  {"predicate": {"custom_model_data": 11}, "model": "fablesfantasyrp:item/plants/flowers/sun_lotus_stems"},
+  {"predicate": {"custom_model_data": 12}, "model": "fablesfantasyrp:item/plants/flowers/sun_lotus_petals"},
+  {"predicate": {"custom_model_data": 13}, "model": "fablesfantasyrp:item/plants/flowers/sun_lotus_roots"},
+  {"predicate": {"custom_model_data": 14}, "model": "fablesfantasyrp:item/plants/herbs_grass/sapphire_sali_seeds"}
+
+  ]
+}

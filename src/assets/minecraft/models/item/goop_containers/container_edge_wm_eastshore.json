@@ -1,0 +1,6 @@
+{
+	"parent": "item/goop_containers/container_edge_model",
+	"textures": {
+		"layer0": "item/goop_containers/container_edge_wm_eastshore"
+	}
+}

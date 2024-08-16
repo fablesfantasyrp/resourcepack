@@ -1,0 +1,44 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/phantom_membrane"
+  },
+  "overrides": [
+	{"predicate": {"custom_model_data": 1}, "model": "fablesfantasyrp:item/backpack/backpack_lvl1"},
+	{"predicate": {"custom_model_data": 2}, "model": "fablesfantasyrp:item/backpack/backpack_lvl2"},
+	{"predicate": {"custom_model_data": 3}, "model": "fablesfantasyrp:item/backpack/backpack_lvl3"},
+	{"predicate": {"custom_model_data": 4}, "model": "fablesfantasyrp:item/backpack/backpack_lvl4"},
+	{"predicate": {"custom_model_data": 5}, "model": "fablesfantasyrp:item/backpack/backpack_lvl5"},
+	{"predicate": {"custom_model_data": 6}, "model": "fablesfantasyrp:item/misc/chainmail"},
+	{"predicate": {"custom_model_data": 7}, "model": "fablesfantasyrp:item/ingots/raw_ore/platinum"},
+	{"predicate": {"custom_model_data": 8}, "model": "fablesfantasyrp:item/ingots/raw_ore/silver"},
+	{"predicate": {"custom_model_data": 9}, "model": "fablesfantasyrp:item/ingots/raw_ore/skysteel"},
+  {"predicate": {"custom_model_data": 10}, "model": "fablesfantasyrp:item/ingots/ingot/platinum"},
+  {"predicate": {"custom_model_data": 11}, "model": "fablesfantasyrp:item/ingots/ingot/silver"},
+  {"predicate": {"custom_model_data": 12}, "model": "fablesfantasyrp:item/ingots/ingot/skysteel"},
+  {"predicate": {"custom_model_data": 13}, "model": "fablesfantasyrp:item/ingots/ingot/steel"},
+  {"predicate": {"custom_model_data": 14}, "model": "fablesfantasyrp:item/ingots/ingot/sunsteel"},
+  {"predicate": {"custom_model_data": 15}, "model": "fablesfantasyrp:item/ingots/ingot/star_metal"},
+  {"predicate": {"custom_model_data": 15}, "model": "fablesfantasyrp:item/ingots/ingot/star_metal"},
+  {"predicate": {"custom_model_data": 16}, "model": "fablesfantasyrp:item/gems/tools/muted_diamond_saw"},
+  {"predicate": {"custom_model_data": 17}, "model": "fablesfantasyrp:item/gems/tools/netherite_rod"},
+
+  {"predicate": {"custom_model_data": 18}, "model": "fablesfantasyrp:item/plants/berries/aracberry_leaves"},
+  {"predicate": {"custom_model_data": 19}, "model": "fablesfantasyrp:item/plants/berries/aracberry_stems"},
+  {"predicate": {"custom_model_data": 20}, "model": "fablesfantasyrp:item/plants/berries/stoneberry_seeds"},
+  {"predicate": {"custom_model_data": 21}, "model": "fablesfantasyrp:item/plants/flowers/lavendar"},
+  {"predicate": {"custom_model_data": 22}, "model": "fablesfantasyrp:item/plants/flowers/lavendar_petals"},
+  {"predicate": {"custom_model_data": 23}, "model": "fablesfantasyrp:item/plants/flowers/sun_lotus"},
+  {"predicate": {"custom_model_data": 24}, "model": "fablesfantasyrp:item/plants/flowers/sunpetal_daisy"},
+  {"predicate": {"custom_model_data": 25}, "model": "fablesfantasyrp:item/plants/flowers/sunpetal_daisy_petals"},
+  {"predicate": {"custom_model_data": 26}, "model": "fablesfantasyrp:item/plants/flowers/hellsbloom"},
+  {"predicate": {"custom_model_data": 27}, "model": "fablesfantasyrp:item/plants/flowers/hellsbloom_petals"},
+  {"predicate": {"custom_model_data": 28}, "model": "fablesfantasyrp:item/plants/flowers/hellsbloom_leaves"},
+  {"predicate": {"custom_model_data": 29}, "model": "fablesfantasyrp:item/plants/fungi/fey_cap"},
+  {"predicate": {"custom_model_data": 30}, "model": "fablesfantasyrp:item/plants/herbs_grass/iceleaf_leaves"},
+  {"predicate": {"custom_model_data": 31}, "model": "fablesfantasyrp:item/plants/herbs_grass/makers_hymn_leaves"},
+  {"predicate": {"custom_model_data": 32}, "model": "fablesfantasyrp:item/plants/herbs_grass/makers_hymn_seeds"},
+  {"predicate": {"custom_model_data": 33}, "model": "fablesfantasyrp:item/plants/herbs_grass/sapphire_sali_leaves"},
+  {"predicate": {"custom_model_data": 34}, "model": "fablesfantasyrp:item/plants/herbs_grass/titans_hair_strands"}
+  ]
+}

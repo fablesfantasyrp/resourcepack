@@ -1,0 +1,62 @@
+{
+  "variants": {
+    "axis=x": [
+      {
+        "model": "fablesfantasyrp:block/ores/moonstone_ore",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "fablesfantasyrp:block/ores/moonstone_ore_mirrored",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "fablesfantasyrp:block/ores/moonstone_ore",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "fablesfantasyrp:block/ores/moonstone_ore_mirrored",
+        "x": 90,
+        "y": 90
+      }
+    ],
+    "axis=y": [
+      {
+        "model": "fablesfantasyrp:block/ores/moonstone_ore"
+      },
+      {
+        "model": "fablesfantasyrp:block/ores/moonstone_ore_mirrored"
+      },
+      {
+        "model": "fablesfantasyrp:block/ores/moonstone_ore",
+        "y": 180
+      },
+      {
+        "model": "fablesfantasyrp:block/ores/moonstone_ore_mirrored",
+        "y": 180
+      }
+    ],
+    "axis=z": [
+      {
+        "model": "fablesfantasyrp:block/ores/moonstone_ore",
+        "x": 90
+      },
+      {
+        "model": "fablesfantasyrp:block/ores/moonstone_ore_mirrored",
+        "x": 90
+      },
+      {
+        "model": "fablesfantasyrp:block/ores/moonstone_ore",
+        "x": 90,
+        "y": 180
+      },
+      {
+        "model": "fablesfantasyrp:block/ores/moonstone_ore_mirrored",
+        "x": 90,
+        "y": 180
+      }
+    ]
+  }
+}
