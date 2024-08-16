@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+      "all": "fablesfantasyrp:block/ores/sky-steel_ore"
+    }
+  }
