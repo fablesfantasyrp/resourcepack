@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/cube_column",
+    "textures": {
+      "end": "fablesfantasyrp:block/ores/moonstone_ore_top",
+      "side": "fablesfantasyrp:block/ores/moonstone_ore_side"
+    }
+  }
