@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/brick"
+  },
+  "overrides": [
+	{"predicate": {"custom_model_data": 1}, "model": "fablesfantasyrp:block/stations/botanists_workbench"},
+	{"predicate": {"custom_model_data": 2}, "model": "fablesfantasyrp:block/rubber_duck"},
+	{"predicate": {"custom_model_data": 3}, "model": "fablesfantasyrp:block/plants/onion_stage_1"},
+	{"predicate": {"custom_model_data": 4}, "model": "fablesfantasyrp:block/plants/onion_stage_2"},
+	{"predicate": {"custom_model_data": 5}, "model": "fablesfantasyrp:block/plants/onion_stage_3"},
+  {"predicate": {"custom_model_data": 6}, "model": "fablesfantasyrp:block/stations/cutting_board"},
+  {"predicate": {"custom_model_data": 7}, "model": "fablesfantasyrp:block/stations/blacksmith_workbench"},
+  {"predicate": {"custom_model_data": 8}, "model": "fablesfantasyrp:block/plants/empty_crop_stick"},
+  {"predicate": {"custom_model_data": 9}, "model": "fablesfantasyrp:block/stations/gem_refinery"}
+  ]
+}
