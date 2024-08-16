@@ -1,0 +1,346 @@
+Fables and Fantasy Custom Items List
+Minecraft Item
+	Custom Item Name: Custom Model Data Number
+
+Amethyst Block
+	Progress bar 4: 1
+Amethyst Cluster
+	Progress bar 3: 1
+Amethyst Shard
+	Amethyst Geode: 1
+	Citrine Geode: 2
+	Diamond Geode: 3
+	Emerald Geode: 4
+	Jade Geode: 5
+	Lapis Lazuli Geode: 6
+	Moonstone Geode: 7
+	Ruby Geode: 8
+	Refined Citrine: 9
+	Refined Jade: 10
+	Refined Moonstone: 11
+	Refined Ruby: 12
+Bow
+	Medusa Bow: 2
+	Voras Bow: 3
+Brick
+	Herbology Crafting Table: 1
+Carved Pumpkin
+	Pharaoh: 1
+	Corsair: 2
+	Bandana: 3
+Compass
+	Magnifier: 1
+Cooked Cod
+	Cooked Hammerhead shark: 1
+	Cooked Oarfish: 2
+	Cooked Sardine: 3
+	Cooked Seahorse: 4
+	Cooked Sword Fish: 5
+	Cooked Zebra Turkey Fish: 6
+Cookie
+	Aracberry: 1
+	Blimberry: 2
+	Blimberry Paste: 3
+	Glowberry: 4
+	Stoneberry: 5
+	Cut Carrots: 6
+Diamond Sword
+	Deadbeard Hook: 1
+Emerald
+	Checkmark: 1
+Ender Eye
+	Ticked box: 1
+Ender Pearl
+	Empty Box: 1
+Fermented Spider Eye
+	Book Pile: 1
+	Mortar and Pestle: 2
+	Paper Stack: 3
+	Pipe: 4
+	Scroll: 5
+	Scroll Stack: 6
+	Stien: 7
+	Telescope: 8
+	Empty Wine Glass: 12
+	Red Wine Bottle: 13
+	Red Wine Glass: 14
+	White Wine Bottle: 15
+	White Wine Glass: 16
+	Open Scroll: 17
+	Aquamarine: 18
+	Opal: 19
+	Soul: 20
+	Fire: 21
+	Amethyst: 22
+	Lockpick: 23
+	Teacup 1: 24
+	Teacup 2: 25
+	Teacup 3: 26
+	Teapot 1: 27
+	Teapot 2: 28
+	Teapot 3: 29
+	Teaset 1: 30
+	Teaset 2: 31
+	Teaset 3: 32
+	Sanguine Relic: 33
+	Incense Pipe: 34
+	Carnyx: 35
+Filled Map
+	Arrow Right: 1
+	Arrow Down: 2
+Fire Charge
+	Firefruit: 1
+Flint
+	Darkened Steel Winged Helmet: 1
+	Heavy Desert Brass Galea: 2
+	Light Bronze Antlers: 3
+	Silver Plumed Helmet: 4
+	Heave Desert Brass Galea Stone: 5
+Glistering Melon Slice
+	Flute: 1
+	Lute: 2
+	Harp: 3
+	Accordion: 4
+	Conga: 5
+	Violin: 6
+Honey Bottle
+	Blimberry Potion: 1
+Hopper Minecart
+	Trash Can: 1
+Ink Sac
+	Antlers: 1
+	Venison: 2
+	Cooked Venison: 3
+	Pelt: 4
+	Bear Hat: 5
+	Polar Bear Hat: 6
+	Black Bear Hat: 7
+	Troll Spear: 8
+	Troll Spear (Ground): 9
+	Voodoo Skull: 10
+	Troll Chief Helm: 11
+	Troll Elite Helm: 12
+	Troll Kopesh: 13
+	Troll Maks: 14
+	Troll Voodoo Staff: 15
+	Dog Icon: 16
+	Yeti Axe: 17
+	Yeti Hat: 18
+	Anubis Laser: 19
+	Anubis Bullet: 20
+	Anubis Lash Effect: 21
+	Kriger Death Breath: 22
+	Rock Throw: 23
+	Minotaur Whirlwind: 24
+	Coconut: 25
+	Yggdrasil: 26
+Iron Axe
+	Copper Axe: 1
+	Cursed Axe: 2
+	Silver Halberd: 3
+	Silver Greatsword: 4
+	Orc Axe: 5
+	Steel Greatsword: 6
+Iron Boots
+	Royal Silver Boots: 1
+	Darkened Steel Boots: 2
+Iron Chestplate
+	Royal Silver Chestplate: 1
+	Darkened Steel Chestplate: 2
+Iron Helmet
+	Royal Silver Helmet: 1
+	Darkened Steel Helmet: 2
+Iron Leggings
+	Royal Silver Leggings: 1
+	Darkened Steel Leggings: 2
+Iron Sword
+	Glade Double Blade: 1
+	Glade Spear: 2
+	Glade Sword: 3
+	Silver Spear: 4
+	Silver Sword: 5
+	Red Lance: 6
+	Blue Lance: 7
+	Orange Lance: 8
+	Light Blue Lance: 9
+	Scimitar: 10
+	Anjyarr Spear: 11
+	Orc Sword: 12
+Lantern
+	Question Mark: 1
+Large Amethyst Bud
+	Progress Bar 2: 1
+Map
+	Arrow Left: 1
+	Arrow Up: 2
+Medium Amethyst Bud
+	Progress Bar 1: 1
+Melon Slice
+	Blimberry: 1
+	Blimberry Paste: 2
+Milk
+	Coconut Milk: 1
+Netherite Sword
+	Glade Double Blade: 1
+	Glade Spear: 2
+	Glade Sword: 3
+	Silver Spear: 4
+	Silver Sword: 5
+	Red Lance: 6
+	Blue Lance: 7
+	Orange Lance: 8
+	Light Blue Lance: 9
+	Scimitar: 10
+	Anjyarr Spear: 11
+	Orc Sword: 12
+	Chitin Spear: 13
+	Scythe: 14
+	Magnus Sword: 15
+	Crowbar: 16 REMOVED
+Paper
+	Diver Helmet: 1
+	Medusa Head: 2
+	Capra Horns: 3
+	Magnus Helmet: 4
+	Magnus Shard: 5
+	Headcrab: 6
+	Xengib1: 7
+	Xengib3: 8
+	Axolotl Hat: 9
+	Fire Axolotl Hat: 10
+	Eternal Flame: 2134
+Phantom Membrane
+	Backpack 1: 1
+	Backpack 2: 2
+	Backpack 3: 3
+	Backpack 4: 4
+	Backpack 5: 5
+	Chainmail: 6
+	Raw Platinum: 7
+	Raw Silver: 8
+	Raw Sky-steel: 9
+	Platinum Ingot: 10
+	Silver Ingot: 11
+	Sky-steel Ingot: 12
+	Steel Ingot: 13
+	Sunsteel: 14
+	Star Metal: 15
+Pig Spawn Egg
+	Catapult Pig: 1
+	Catapult: 2
+	Coconut: 3
+	Skog Bonsai: 4
+	Skog Bonsai Birch: 5
+Player Head
+	Number 1: 11
+	Number 2: 12
+	Number 3: 13
+	Number 4: 14
+	Number 5: 15
+	Number 6: 16
+	Number 7: 17
+	Number 8: 18
+	Number 9: 19
+	Number 10: 10
+Potato
+	Onion: 1
+Pufferfish
+	Raw Sardine: 1
+	Raw Barrel Eye: 2
+	Raw Football Fish: 3
+	Raw Hammer Head Shark: 4
+	Raw Oarfish: 5
+	Raw Seahorse (Pink): 6
+	Raw Seahorse (Purple): 7
+	Raw Seahorse (Red): 8
+	Raw Seahorse (Teal): 9
+	Raw Seahorse (Yellow): 10
+	Raw Swordfish: 11
+	Raw Zebra Turkey Fish: 12
+Rabbit Hide
+	Blue Wizard Hat: 1
+	Brown Wizard Hat: 2
+	Cavalier Hat: 3
+	Leather Hat: 4
+Raw Iron:
+	Hwacha Arrow: 1,000,001
+	Hwacha Arrow Down: 1,000,002
+	Stone Ball: 1,000,003
+	Flaming Ball: 1,000,004
+	Dead Cow: 1,000,005
+	Ballista Arrow: 1,000,006
+	Ballista Arrow Down: 1,000,007
+	Cannon Ball: 1,000,008
+	Blueprint: 1,000,009
+	Blueprint: 1,000,0010
+	Blueprint: 1,000,0011
+	Blueprint: 1,000,0012
+	Blueprint: 1,000,0013
+	Blueprint: 1,000,0014
+	Blueprint: 1,000,0015
+	Blueprint: 1,000,0016
+	Blueprint: 1,000,0017
+	Blueprint: 1,000,0018
+	Blueprint: 1,000,0019
+	Repair 1: 1,000,0020
+	Repair 2: 1,000,0021
+	Repair 3: 1,000,0021
+Redstone
+	Cross: 1
+Shield
+	Round Pixel Shield: 1
+	Oval Shield 1: 2
+	Oval Shield 2: 3
+	Oval Shield 3: 4
+	Troll Shield: 5
+	Voras Tombstone Shield: 6
+	Yeti Shield: 7
+	Giant Turtle Shield: 8
+	Magnus Shield: 9
+Small Amethyst Bud
+	Progressbar 0: 1
+Stick
+	Mount Barreleye: 1
+	Mount Football Fish: 2
+	Mount Hammerhead Shark: 3
+	Mount Marlin: 4
+	Mount Nautilis: 5
+	Flintlock: 6 REMOVED
+Stone
+	Herbology Crafting Table: 1
+Stone Sword
+	Ent Sword: 1
+	Ent Staff: 2
+	Necromancer Sword: 2013
+	Necromancer Staff: 2014
+Sunflower
+	Info: 1
+Wooden Sword
+	Blimberry Bandages: 1
+
+
+Custom Armor
+Iron Armor
+	Royal Silver: 1
+	Darkened Steel: 2
+	Light Desert Brass: 3
+	Meteoric Iron: 4
+	Light Desert Steel: 5 (No Chestplate)
+	Silver: 6
+	Light Bronze: 7
+	Heavy Star Metal: 8
+	Heavy Steel: 9
+	Medium Steel: 10
+	Heavy Desert Steel: 11 (Also has diamond chestplate and leggings)
+
+	Gilded Drakened Steel: 13
+	Light Star Metal: 14
+	Platinum: 15
+	Brass: 16
+	Heavy Brass: 17
+	Heavy Bronze: 18
+	Forest Brass: 19
+Chainmail Armor
+	Light Steel: 12
+Elytra
+	Angel Wings: 1 (Will not work with capes)
