@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "fablesfantasyrp:item/plants/herbs_grass/sapphire_sali_leaves"
+  }
+}

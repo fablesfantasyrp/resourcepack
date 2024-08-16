@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "fablesfantasyrp:item/plants/tools/muted_knife"
+  }
+}
