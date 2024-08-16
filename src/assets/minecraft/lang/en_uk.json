@@ -1,0 +1,21 @@
+{
+  "block.minecraft.netherite_block": "Block of Dark Steel",
+  "item.minecraft.netherite_scrap": "Dark Steel Scrap",
+  "item.minecraft.netherite_ingot": "Dark Steel Ingot",
+  "item.minecraft.netherite_helmet": "Dark Steel Helmet",
+  "item.minecraft.netherite_chestplate": "Dark Steel Chestplate",
+  "item.minecraft.netherite_leggings": "Dark Steel Leggings",
+  "item.minecraft.netherite_boots": "Dark Steel Boots",
+  "item.minecraft.netherite_axe": "Dark Steel Axe",
+  "item.minecraft.netherite_pickaxe": "Dark Steel Pickaxe",
+  "item.minecraft.netherite_hoe": "Dark Steel Hoe",
+  "item.minecraft.netherite_shovel": "Dark Steel Shovel",
+  "item.minecraft.netherite_sword": "Dark Steel Sword",
+  "block.minecraft.infested_stone": "Silver Ore",
+  "block.minecraft.infested_cobblestone": "Platinum Ore",
+  "block.minecraft.infested_stone_bricks": "Sky-Steel Ore",
+  "block.minecraft.infested_mossy_stone_bricks": "Ruby Ore",
+  "block.minecraft.infested_cracked_stone_bricks": "Jade Ore",
+  "block.minecraft.infested_chiseled_stone_bricks": "Citrine Ore",
+  "block.minecraft.infested_deepslate": "Moonstone Ore"
+}
