@@ -1,0 +1,20 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/amethyst_shard"
+  },
+  "overrides": [
+	{"predicate": {"custom_model_data": 1}, "model": "fablesfantasyrp:item/gems/geode/amethyst"},
+	{"predicate": {"custom_model_data": 2}, "model": "fablesfantasyrp:item/gems/geode/citrine"},
+	{"predicate": {"custom_model_data": 3}, "model": "fablesfantasyrp:item/gems/geode/diamond"},
+	{"predicate": {"custom_model_data": 4}, "model": "fablesfantasyrp:item/gems/geode/emerald"},
+	{"predicate": {"custom_model_data": 5}, "model": "fablesfantasyrp:item/gems/geode/jade"},
+	{"predicate": {"custom_model_data": 6}, "model": "fablesfantasyrp:item/gems/geode/lapis"},
+	{"predicate": {"custom_model_data": 7}, "model": "fablesfantasyrp:item/gems/geode/moonstone"},
+	{"predicate": {"custom_model_data": 8}, "model": "fablesfantasyrp:item/gems/geode/ruby"},
+	{"predicate": {"custom_model_data": 9}, "model": "fablesfantasyrp:item/gems/refined/citrine"},
+	{"predicate": {"custom_model_data": 10}, "model": "fablesfantasyrp:item/gems/refined/jade"},
+	{"predicate": {"custom_model_data": 11}, "model": "fablesfantasyrp:item/gems/refined/moonstone"},
+	{"predicate": {"custom_model_data": 12}, "model": "fablesfantasyrp:item/gems/refined/ruby"}
+  ]
+}
